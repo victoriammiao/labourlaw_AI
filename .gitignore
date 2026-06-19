@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+
+data/rag_law/chroma_db/
+data/rag_law/imported/knowledge.json

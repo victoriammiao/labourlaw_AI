@@ -1,0 +1,6 @@
+langchain>=0.3
+langchain-core
+langchain-chroma
+langchain-huggingface
+chromadb
+sentence-transformers
