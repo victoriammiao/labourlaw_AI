@@ -115,6 +115,15 @@ Labor Law Legal Advisor/
 │   ├── workflow.py
 │   ├── model_runtime.py      # 基座 + LoRA 加载与切换
 │   └── legal_agent.py        # LangChain Agent
+├── finetune_evidence/        # 微调全流程证明材料（日志、配置、曲线、评测）
+│   ├── README.md
+│   ├── FULL_PROCESS_SUMMARY.md
+│   ├── configs/              # v1/v2/v3/v3.1 训练配置与推理配置
+│   ├── logs/                 # 各版本训练日志
+│   ├── metrics/              # train/eval results、trainer_state、trainer_log
+│   ├── plots/                # loss 与 eval loss 曲线
+│   ├── eval/                 # Base vs LoRA 20题评测脚本和结果
+│   └── data_pipeline/        # 数据处理脚本、注册片段、统计和样例
 └── DISC-Law-SFT/             # 微调数据构建脚本与 v2 子集
     ├── README.md
     ├── prepare_labor_subset.py
@@ -130,6 +139,29 @@ Labor Law Legal Advisor/
 | `step3_search.py` | 精确条号 → 关键词 → 向量 → RRF → Reranker |
 | `web/workflow.py` | 意图路由、RAG 调用、Agent 分流 |
 | `web/model_runtime.py` | Qwen 4bit 加载、PEFT LoRA 挂载、`disable_adapter()` 切换 |
+
+## 微调证明材料
+
+微调全流程证明材料放在 [`finetune_evidence/`](./finetune_evidence/) 中，用于证明本项目不是只接入现成模型，而是实际完成了 DISC-Law-SFT 劳动法数据筛选、LLaMA-Factory QLoRA 训练、多版本迭代和 Base vs LoRA 评测。
+
+建议从这两个文件开始查看：
+
+- [`finetune_evidence/README.md`](./finetune_evidence/README.md)：证明材料总入口，说明目录结构、最终采用版本和为什么不提交权重。
+- [`finetune_evidence/FULL_PROCESS_SUMMARY.md`](./finetune_evidence/FULL_PROCESS_SUMMARY.md)：v1 → v2 → v3 → v3.1 的训练配置、数据变化、指标与结论总览。
+
+`finetune_evidence/` 结构说明：
+
+| 目录 | 内容 |
+| ---- | ---- |
+| `configs/training/` | v1、v2、v3、v3.1 的 LLaMA-Factory 训练配置 |
+| `configs/inference/` | 基座、LoRA v1/v2/v3 的推理配置 |
+| `logs/` | 各版本训练日志，包含训练 step、耗时、loss 等过程记录 |
+| `metrics/` | `train_results.json`、`eval_results.json`、`trainer_state.json`、`trainer_log.jsonl` 等训练指标 |
+| `plots/` | 各版本 `training_loss.png` 与 `training_eval_loss.png` |
+| `eval/` | 20题 Base vs LoRA 对比评测脚本和结果 |
+| `data_pipeline/` | DISC-Law-SFT 劳动法子集构建脚本、数据注册片段、样本统计和少量样例 |
+
+没有提交完整模型权重和 checkpoint：v2 的 `adapter_model.safetensors` 约 155MB，超过 GitHub 普通仓库单文件限制；完整 `saves/Qwen2.5-7B-Instruct` 约 5GB，也不适合作业仓库。当前提交的配置、日志、loss 曲线、指标、评测结果和数据处理脚本已经可以证明完整微调流程。
 
 ## 提交说明（除模型外）
 
