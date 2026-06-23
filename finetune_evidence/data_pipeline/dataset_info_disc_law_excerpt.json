@@ -1,0 +1,61 @@
+{
+  "disc_law_pair_qa": {
+    "file_name": "disc_law_pair_qa.jsonl",
+    "columns": {
+      "prompt": "input",
+      "response": "output"
+    }
+  },
+  "disc_law_labor_qa": {
+    "file_name": "disc_law_labor_qa.jsonl",
+    "columns": {
+      "prompt": "input",
+      "response": "output"
+    }
+  },
+  "disc_law_triplet_labor_qa": {
+    "file_name": "disc_law_triplet_labor_qa.jsonl",
+    "columns": {
+      "prompt": "input",
+      "response": "output"
+    }
+  },
+  "disc_law_labor_qa_v2": {
+    "file_name": "disc_law_labor_qa_v2.jsonl",
+    "columns": {
+      "prompt": "input",
+      "response": "output"
+    }
+  },
+  "disc_law_triplet_labor_qa_v2": {
+    "file_name": "disc_law_triplet_labor_qa_v2.jsonl",
+    "columns": {
+      "prompt": "input",
+      "response": "output"
+    }
+  },
+  "disc_law_labor_qa_v3": {
+    "file_name": "disc_law_labor_qa_v3.jsonl",
+    "columns": {
+      "prompt": "input",
+      "response": "output"
+    }
+  },
+  "disc_law_triplet_labor_qa_v3": {
+    "file_name": "disc_law_triplet_labor_qa_v3.jsonl",
+    "columns": {
+      "prompt": "input",
+      "response": "output"
+    }
+  },
+  "disc_law_eval_gold_v3": {
+    "file_name": "disc_law_eval_gold_v3.jsonl",
+    "columns": {
+      "prompt": "input",
+      "response": "output"
+    }
+  },
+  "identity": {
+    "file_name": "identity.json"
+  }
+}
