@@ -1,6 +1,16 @@
 langchain>=0.3
 langchain-core
+langchain-openai
+langchain-community
 langchain-chroma
 langchain-huggingface
 chromadb
 sentence-transformers
+tavily-python
+fastapi
+uvicorn
+gradio
+accelerate
+peft
+pypdf
+python-docx

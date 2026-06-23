@@ -1,45 +1,54 @@
-# 劳动法法律顾问 RAG 项目配置
 import os
+from pathlib import Path
 
-PROJECT_ROOT = "/root/autodl-tmp/projects/Labor Law Legal Advisor"
+PROJECT_ROOT = os.getenv("PROJECT_ROOT", str(Path(__file__).resolve().parent))
 
 
 def _load_dotenv() -> None:
-    """从项目根目录的 .env 文件加载环境变量（不覆盖已 export 的值）。"""
-    for filename in (".env", ".env.example"):
-        path = os.path.join(PROJECT_ROOT, filename)
-        if not os.path.exists(path):
-            continue
-        with open(path, "r", encoding="utf-8") as f:
-            for line in f:
-                line = line.strip()
-                if not line or line.startswith("#") or "=" not in line:
-                    continue
-                key, value = line.split("=", 1)
-                key = key.strip()
-                value = value.strip().strip('"').strip("'")
-                if key and key not in os.environ:
-                    os.environ[key] = value
-        break
+    """Load local .env values without requiring python-dotenv at runtime."""
+    path = os.path.join(PROJECT_ROOT, ".env")
+    if not os.path.exists(path):
+        return
+    with open(path, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+            key, value = line.split("=", 1)
+            key = key.strip()
+            value = value.strip().strip('"').strip("'")
+            if key and key not in os.environ:
+                os.environ[key] = value
 
 
 _load_dotenv()
 
-# Dify 知识库 API（云版默认地址）
-DIFY_BASE_URL = os.getenv("DIFY_BASE_URL", "https://api.dify.ai/v1").rstrip("/")
-DIFY_API_KEY = os.getenv("DIFY_API_KEY", "")
-DIFY_DATASET_ID = os.getenv("DIFY_DATASET_ID", "")
-
-# 从 Dify 导入后的本地缓存
-IMPORTED_DATA_PATH = os.path.join(PROJECT_ROOT, "data/rag_law/imported/knowledge.json")
+# 本地知识库切片缓存
+IMPORTED_DATA_PATH = os.getenv(
+    "IMPORTED_DATA_PATH",
+    os.path.join(PROJECT_ROOT, "data/rag_law/imported/knowledge.json"),
+)
 
 # 向量库
-DB_PATH = os.path.join(PROJECT_ROOT, "data/rag_law/chroma_db")
+DB_PATH = os.getenv("CHROMA_DB_PATH", os.path.join(PROJECT_ROOT, "data/rag_law/chroma_db"))
 COLLECTION_NAME = "labor_law_knowledge"
 
 # Embedding 模型（与 day3 实验共用 BGE 小模型）
-BGE_MODEL_PATH = "/root/autodl-tmp/models/bge/AI-ModelScope/bge-small-zh-v1.5"
+BGE_MODEL_PATH = os.getenv("BGE_MODEL_PATH", "/root/autodl-tmp/models/bge/AI-ModelScope/bge-small-zh-v1.5")
 BGE_MODEL_NAME = "BAAI/bge-small-zh-v1.5"
+
+# Reranker 模型：优先使用本地路径，不存在时使用 HuggingFace/镜像下载。
+RERANKER_MODEL_PATH = os.getenv("RERANKER_MODEL_PATH", "/root/autodl-tmp/models/bge/BAAI/bge-reranker-base")
+RERANKER_MODEL_NAME = "BAAI/bge-reranker-base"
 
 if not os.path.exists(BGE_MODEL_PATH):
     os.environ.setdefault("HF_ENDPOINT", "https://hf-mirror.com")
+
+
+# 外部工具 / API 配置
+WEB_SEARCH_ENABLED = os.getenv("WEB_SEARCH_ENABLED", "false").lower() == "true"
+TAVILY_API_KEY = os.getenv("TAVILY_API_KEY", "")
+
+DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "")
+DEEPSEEK_BASE_URL = os.getenv("DEEPSEEK_BASE_URL", "https://api.deepseek.com")
+DEEPSEEK_MODEL = os.getenv("DEEPSEEK_MODEL", "deepseek-chat")

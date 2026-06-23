@@ -1,6 +1,39 @@
+# Secrets
 .env
+
+# Python
 __pycache__/
 *.pyc
+*.pyo
+.Python
+.venv/
+venv/
 
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Large local artifacts (do not commit)
 data/rag_law/chroma_db/
 data/rag_law/imported/knowledge.json
+
+# Model weights & caches (download separately)
+models/
+*.safetensors
+*.bin
+*.pt
+*.ckpt
+
+# DISC raw/full datasets (too large for GitHub; use scripts + README to reproduce)
+DISC-Law-SFT/raw/
+DISC-Law-SFT/converted/disc_law_labor_full.jsonl
+DISC-Law-SFT/converted/disc_law_triplet_labor_full.jsonl
+DISC-Law-SFT/converted/disc_law_labor_qa.jsonl
+DISC-Law-SFT/converted/disc_law_triplet_labor_qa.jsonl
+DISC-Law-SFT/converted/disc_law_labor_pair_v3_raw.jsonl
+DISC-Law-SFT/converted/disc_law_triplet_labor_v3_raw.jsonl
+
+# Keep small training subsets & scripts (v2/v3 jsonl are ~2–6MB each, acceptable)
+# If push fails due to size, uncomment next line:
+# DISC-Law-SFT/converted/
