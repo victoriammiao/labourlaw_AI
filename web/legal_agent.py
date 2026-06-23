@@ -88,8 +88,8 @@ def run_legal_agent(
     raw = (original_query or user_input).strip()
     if attachment_context.strip():
         content = (
-            "【重要】用户已上传文件，以下内容已从文件中解析提取。"
-            "你必须基于这些内容回答，禁止说用户未上传文件或要求重新上传。\n\n"
+            "用户已上传文件，以下内容已从文件中解析提取。"
+            "请优先结合这些内容回答；如信息不足，再说明需要补充哪些事实。\n\n"
             f"{attachment_context.strip()}\n\n"
             f"最近对话：\n{history}\n\n"
         )

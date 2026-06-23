@@ -16,6 +16,14 @@ ATTACHMENT_QUERY_RE = re.compile(
     r"说了什么|讲了什么|内容是什么|什么意思|帮我看|解读|摘要|总结|概括",
     re.I,
 )
+MISSING_ATTACHMENT_RE = re.compile(
+    r"上传(的)?(文件|附件|文档|材料)|"
+    r"(这个|该|上述|上面)(文件|附件|文档|材料|合同|协议|通知书|条款)|"
+    r"(这份|该份)(文件|附件|文档|材料|合同|协议|通知书|条款)?|"
+    r"(帮我看|看一下|解读|分析|总结|摘要|概括).{0,8}(这份|这个|该份|上述|上面)?(文件|附件|文档|合同|协议|通知书|条款)|"
+    r"(文件|附件|文档|合同|协议|通知书).{0,8}(说了什么|讲了什么|内容是什么|什么意思)",
+    re.I,
+)
 
 
 def _tokenize(text: str) -> set[str]:
@@ -35,6 +43,11 @@ def is_document_generation_request(query: str) -> bool:
 
 def is_attachment_focused_query(query: str) -> bool:
     return bool(ATTACHMENT_QUERY_RE.search(query or ""))
+
+
+def requires_uploaded_attachment(query: str) -> bool:
+    """Return True only when the user clearly refers to an uploaded/current file."""
+    return bool(MISSING_ATTACHMENT_RE.search(query or ""))
 
 
 def format_planner_attachment_hint(attachments: list[dict] | None) -> str:

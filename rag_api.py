@@ -3,7 +3,7 @@
 from __future__ import annotations
 
 import sys
-from functools import lru_cache
+from threading import Lock
 
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel, Field
@@ -52,11 +52,18 @@ app = FastAPI(
     version="1.0.0",
 )
 
+_vectorstore = None
+_vectorstore_lock = Lock()
 
-@lru_cache(maxsize=1)
+
 def get_vectorstore():
     """Load the Chroma vector store once and reuse it across API requests."""
-    return load_vectorstore()
+    global _vectorstore
+    if _vectorstore is None:
+        with _vectorstore_lock:
+            if _vectorstore is None:
+                _vectorstore = load_vectorstore()
+    return _vectorstore
 
 
 def format_context(results: list[dict]) -> str:

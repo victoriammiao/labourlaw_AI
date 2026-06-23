@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import gradio as gr
 
-from web.attachment_context import format_attachment_status, is_attachment_focused_query
+from web.attachment_context import format_attachment_status
 from web.references import format_used_sources
 from web.chat_sessions import (
     DELETE_COL_INDEX,
@@ -33,7 +33,7 @@ html,
 body {
   width: 100%;
   height: auto !important;
-  min-width: 1100px;
+  min-width: 0;
   min-height: 100%;
   margin: 0;
   overflow-x: hidden !important;
@@ -98,9 +98,9 @@ body::-webkit-scrollbar-thumb:hover,
   background-clip: content-box;
 }
 .gradio-container {
-  width: 92% !important;
+  width: min(96vw, 1680px) !important;
   max-width: 1680px !important;
-  min-width: 1100px !important;
+  min-width: 0 !important;
   height: auto !important;
   max-height: none !important;
   min-height: calc(100vh - 24px) !important;
@@ -191,8 +191,10 @@ body::-webkit-scrollbar-thumb:hover,
 #chatbot {
   height: 360px !important;
   min-height: 280px !important;
-  max-height: 42vh !important;
+  max-height: none !important;
+  overflow: auto !important;
   flex-shrink: 0;
+  border-bottom: 3px solid rgba(100, 116, 139, 0.25);
 }
 #chatbot .wrap,
 #chatbot .bubble-wrap {
@@ -200,9 +202,31 @@ body::-webkit-scrollbar-thumb:hover,
   max-height: 100% !important;
   overflow-y: auto !important;
 }
+#chatbot.chatbot-resize-hover {
+  cursor: ns-resize !important;
+  border-bottom-color: rgba(37, 99, 235, 0.75);
+}
+#chatbot.chatbot-resizing {
+  cursor: ns-resize !important;
+  user-select: none;
+}
 .sidebar-panel .dataframe {
   max-height: 52vh;
   overflow-y: auto !important;
+}
+textarea {
+  resize: vertical !important;
+  min-height: 72px !important;
+}
+@media (max-width: 900px) {
+  .gradio-container {
+    width: 98vw !important;
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+  }
+  .app-shell {
+    padding: 10px;
+  }
 }
 footer {
   display: none !important;
@@ -267,6 +291,68 @@ SCROLL_FIX_HEAD = """
       attributeFilter: ["style", "class", "data-iframe-height"],
     });
   }
+
+  function setChatbotHeight(height) {
+    var chatbot = document.querySelector("#chatbot");
+    if (!chatbot) return;
+    var next = Math.max(280, Math.min(height, Math.max(window.innerHeight - 180, 360)));
+    chatbot.style.setProperty("height", next + "px", "important");
+    chatbot.style.setProperty("max-height", "none", "important");
+    chatbot.querySelectorAll(".wrap, .bubble-wrap").forEach(function (el) {
+      el.style.setProperty("height", "100%", "important");
+      el.style.setProperty("max-height", "100%", "important");
+      el.style.setProperty("overflow-y", "auto", "important");
+    });
+  }
+
+  function installChatbotResizer() {
+    var chatbot = document.querySelector("#chatbot");
+    if (!chatbot || chatbot.dataset.resizerReady === "1") return;
+    chatbot.dataset.resizerReady = "1";
+    var edgeSize = 14;
+
+    function isNearBottomEdge(event) {
+      var rect = chatbot.getBoundingClientRect();
+      return event.clientY >= rect.bottom - edgeSize && event.clientY <= rect.bottom + edgeSize;
+    }
+
+    chatbot.addEventListener("mousemove", function (event) {
+      chatbot.classList.toggle("chatbot-resize-hover", isNearBottomEdge(event));
+    });
+
+    chatbot.addEventListener("mouseleave", function () {
+      chatbot.classList.remove("chatbot-resize-hover");
+    });
+
+    chatbot.addEventListener("mousedown", function (event) {
+      if (!isNearBottomEdge(event)) return;
+      event.preventDefault();
+      var startY = event.clientY;
+      var startHeight = chatbot.getBoundingClientRect().height;
+      chatbot.classList.add("chatbot-resizing");
+      function onMove(moveEvent) {
+        setChatbotHeight(startHeight + moveEvent.clientY - startY);
+      }
+      function onUp() {
+        chatbot.classList.remove("chatbot-resizing");
+        chatbot.classList.remove("chatbot-resize-hover");
+        document.removeEventListener("mousemove", onMove);
+        document.removeEventListener("mouseup", onUp);
+      }
+      document.addEventListener("mousemove", onMove);
+      document.addEventListener("mouseup", onUp);
+    });
+  }
+
+  installChatbotResizer();
+  window.addEventListener("load", installChatbotResizer);
+  window.addEventListener("resize", installChatbotResizer);
+  if (window.MutationObserver) {
+    new MutationObserver(installChatbotResizer).observe(document.documentElement, {
+      childList: true,
+      subtree: true,
+    });
+  }
 })();
 </script>
 """
@@ -299,21 +385,9 @@ def launch_demo(args, model, tokenizer) -> None:
         state = ensure_state(_workflow_state)
         query = (_query or "").strip()
         use_lora = _use_lora_from_mode(_model_mode)
-        model_label = "微调模型 (LoRA v2)" if use_lora else "基座模型 (未微调)"
+        model_label = "基座模型 (未微调)" if use_lora else "微调模型 (LoRA v2)"
         print(f"Model mode: {model_label}")
         attachments = get_active_attachments(_sessions_state)
-        if is_attachment_focused_query(query) and not attachments:
-            _chatbot.append({"role": "user", "content": query})
-            hint = (
-                "你问的是上传文件相关的问题，但当前对话还没有已解析的附件。\n\n"
-                "请先在下方「上传文件」区域选择 PDF / Word / TXT，"
-                "选好后会自动解析；看到「已附加文件」列表后再提问。"
-            )
-            _chatbot.append({"role": "assistant", "content": hint})
-            table, title = _sidebar_updates(_sessions_state)
-            yield _chatbot, state, _sessions_state, table, title, _attachment_status_update(_sessions_state)
-            return
-
         print(f"User: {query}")
         _chatbot.append({"role": "user", "content": query})
         _chatbot.append({"role": "assistant", "content": "正在理解你的问题，并检索相关资料..."})
@@ -364,10 +438,11 @@ def launch_demo(args, model, tokenizer) -> None:
 
     def on_new_chat(chatbot, workflow_state, sessions_state):
         sessions_state = create_new_chat(sessions_state, chatbot, workflow_state)
-        chatbot, workflow_state, _attachments = load_active_chat(sessions_state)
+        chatbot = []
+        workflow_state = new_state()
         release_cuda_cache()
         table, title = _sidebar_updates(sessions_state)
-        print(f"New chat created. sessions={len(sessions_state['order'])}")
+        print(f"New chat created. sessions={len(sessions_state['order'])}, turns=0")
         return chatbot, workflow_state, sessions_state, table, title, _attachment_status_update(sessions_state)
 
     def on_table_action(evt: gr.SelectData, chatbot, workflow_state, sessions_state):
@@ -448,8 +523,13 @@ def launch_demo(args, model, tokenizer) -> None:
                     gr.Markdown('<div class="sidebar-title">会话管理</div>')
                     new_chat_btn = gr.Button("＋ 新建对话", variant="primary")
                     gr.Markdown(
-                        '<div style="color:#64748b;font-size:12px;margin:8px 0;">'
-                        "点击某行切换对话；点击右侧「删除」列可删除该对话</div>"
+                        """
+<div style="color:#64748b;font-size:12px;margin:8px 0;line-height:1.6;">
+点击「新建对话」会生成一条独立会话：清空当前问答历史、工作流上下文和上传附件，
+但保留当前模型选择、工具与 API 配置。发送第一条消息后自动命名，也可手动重命名；
+点击历史列表可随时切换，右侧「删除」列可删除该对话。
+</div>
+"""
                     )
                     history_table = gr.Dataframe(
                         headers=["标题", "轮数", "更新时间", "操作"],
@@ -485,8 +565,8 @@ def launch_demo(args, model, tokenizer) -> None:
                     if lora_available:
                         model_mode = gr.Radio(
                             choices=[
-                                ("微调模型 (LoRA v2)", "lora"),
-                                ("基座模型 (未微调)", "base"),
+                                ("基座模型 (未微调)", "lora"),
+                                ("微调模型 (LoRA v2)", "base"),
                             ],
                             value="lora",
                             label="回答模型",

@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+from copy import deepcopy
 from datetime import datetime
 import uuid
 
@@ -68,8 +69,8 @@ def ensure_store(store) -> dict:
 def sync_active_session(store: dict, messages: list, workflow: dict, *, first_query: str = "") -> dict:
     store = ensure_store(store)
     session = store["sessions"][store["active_id"]]
-    session["messages"] = messages
-    session["workflow"] = workflow
+    session["messages"] = deepcopy(messages or [])
+    session["workflow"] = deepcopy(workflow or new_state())
     session.setdefault("attachments", [])
     session.setdefault("title_user_set", False)
     session["updated_at"] = _now()
@@ -97,7 +98,8 @@ def rename_active_session(store: dict, title: str) -> dict:
 
 
 def create_new_chat(store: dict, current_messages: list, current_workflow: dict) -> dict:
-    store = ensure_store(store)
+    """Persist the current chat, then switch to a fully isolated blank session."""
+    store = deepcopy(ensure_store(store))
     sync_active_session(store, current_messages, current_workflow)
     session = _blank_session(title=_next_blank_title(store))
     store["sessions"][session["id"]] = session
@@ -107,7 +109,7 @@ def create_new_chat(store: dict, current_messages: list, current_workflow: dict)
 
 
 def select_chat_by_index(store: dict, index: int, current_messages: list, current_workflow: dict) -> dict:
-    store = ensure_store(store)
+    store = deepcopy(ensure_store(store))
     sync_active_session(store, current_messages, current_workflow)
     if index is None or index < 0 or index >= len(store["order"]):
         return store
@@ -116,7 +118,7 @@ def select_chat_by_index(store: dict, index: int, current_messages: list, curren
 
 
 def delete_chat_by_index(store: dict, index: int, current_messages: list, current_workflow: dict) -> dict:
-    store = ensure_store(store)
+    store = deepcopy(ensure_store(store))
     sync_active_session(store, current_messages, current_workflow)
     if index is None or index < 0 or index >= len(store["order"]):
         return store
@@ -183,9 +185,9 @@ def clear_active_attachments(store: dict) -> dict:
 def load_active_chat(store: dict) -> tuple[list, dict, list]:
     session = get_active_session(store)
     return (
-        session.get("messages", []),
-        session.get("workflow", new_state()),
-        session.get("attachments", []),
+        deepcopy(session.get("messages", [])),
+        deepcopy(session.get("workflow", new_state())),
+        deepcopy(session.get("attachments", [])),
     )
 
 
