@@ -1,0 +1,10 @@
+model_name_or_path: /root/autodl-tmp/models/Qwen2.5-7B-Instruct
+adapter_name_or_path: saves/Qwen2.5-7B-Instruct/lora/disc_law_qwen7b_v2
+template: qwen
+infer_backend: huggingface
+trust_remote_code: true
+quantization_bit: 4
+quantization_method: bnb
+finetuning_type: lora
+repetition_penalty: 1.1
+temperature: 0.3
