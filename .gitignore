@@ -14,9 +14,9 @@ venv/
 .vscode/
 .DS_Store
 
-# Large local artifacts (do not commit)
-data/rag_law/chroma_db/
-data/rag_law/imported/knowledge.json
+# Reproducible RAG assets are committed:
+# - data/rag_law/imported/knowledge.json
+# - data/rag_law/chroma_db/
 
 # Model weights & caches (download separately)
 models/
@@ -24,6 +24,7 @@ models/
 *.bin
 *.pt
 *.ckpt
+!data/rag_law/chroma_db/**/*.bin
 
 # DISC raw/full datasets (too large for GitHub; use scripts + README to reproduce)
 DISC-Law-SFT/raw/

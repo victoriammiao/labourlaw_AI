@@ -12,5 +12,6 @@ uvicorn
 gradio
 accelerate
 peft
+bitsandbytes
 pypdf
 python-docx

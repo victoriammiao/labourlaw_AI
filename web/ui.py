@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import gradio as gr
 
-from web.attachment_context import format_attachment_status
+from web.attachment_context import format_attachment_status, requires_uploaded_attachment
 from web.references import format_used_sources
 from web.chat_sessions import (
     DELETE_COL_INDEX,
@@ -385,9 +385,21 @@ def launch_demo(args, model, tokenizer) -> None:
         state = ensure_state(_workflow_state)
         query = (_query or "").strip()
         use_lora = _use_lora_from_mode(_model_mode)
-        model_label = "基座模型 (未微调)" if use_lora else "微调模型 (LoRA v2)"
+        model_label = "微调模型 (LoRA v2)" if use_lora else "基座模型 (未微调)"
         print(f"Model mode: {model_label}")
         attachments = get_active_attachments(_sessions_state)
+        if requires_uploaded_attachment(query) and not attachments:
+            _chatbot.append({"role": "user", "content": query})
+            hint = (
+                "你问的是上传文件相关的问题，但当前对话还没有已解析的附件。\n\n"
+                "请先在下方「上传文件」区域选择 PDF / Word / TXT，"
+                "选好后会自动解析；看到「已附加文件」列表后再提问。"
+            )
+            _chatbot.append({"role": "assistant", "content": hint})
+            table, title = _sidebar_updates(_sessions_state)
+            yield _chatbot, state, _sessions_state, table, title, _attachment_status_update(_sessions_state)
+            return
+
         print(f"User: {query}")
         _chatbot.append({"role": "user", "content": query})
         _chatbot.append({"role": "assistant", "content": "正在理解你的问题，并检索相关资料..."})
@@ -565,8 +577,8 @@ def launch_demo(args, model, tokenizer) -> None:
                     if lora_available:
                         model_mode = gr.Radio(
                             choices=[
-                                ("基座模型 (未微调)", "lora"),
-                                ("微调模型 (LoRA v2)", "base"),
+                                ("微调模型 (LoRA v2)", "lora"),
+                                ("基座模型 (未微调)", "base"),
                             ],
                             value="lora",
                             label="回答模型",

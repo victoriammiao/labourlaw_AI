@@ -1,0 +1,5738 @@
+{
+  "dataset_id": "0a9ec609-bec9-4d1e-bdd7-bc6e664d8701",
+  "imported_at": 1781865269,
+  "document_count": 3,
+  "chunk_count": 571,
+  "documents": [
+    {
+      "id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+      "name": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+      "indexing_status": "completed",
+      "word_count": 5520
+    },
+    {
+      "id": "10639759-6381-4f3e-a381-d969e134d02c",
+      "name": "劳动合同法.docx",
+      "indexing_status": "completed",
+      "word_count": 11673
+    },
+    {
+      "id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+      "name": "工伤保险条例.docx",
+      "indexing_status": "completed",
+      "word_count": 9505
+    }
+  ],
+  "chunks": [
+    {
+      "content": "中华人民共和国劳动争议调解仲裁法",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "016c3bef-703a-4bb5-8380-e7968eb269af",
+        "position": 1,
+        "word_count": 16
+      }
+    },
+    {
+      "content": "（2007年12月29日第十届全国人民代表大会常务委员会第三十一次会议通过）",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "6557f045-6f31-4c81-8bd1-aba0bc51b98c",
+        "position": 2,
+        "word_count": 38
+      }
+    },
+    {
+      "content": "目 录",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "24ae4cad-a6c4-4da5-9f0b-a57cb6e334e9",
+        "position": 3,
+        "word_count": 3
+      }
+    },
+    {
+      "content": "第一章　总 则",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "87fb0242-abdb-439a-ac76-7d94dc32ad5d",
+        "position": 4,
+        "word_count": 7
+      }
+    },
+    {
+      "content": "第二章　调 解",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "d19e6e3c-8126-4268-aa30-176f43e968d5",
+        "position": 5,
+        "word_count": 7
+      }
+    },
+    {
+      "content": "第三章　仲 裁",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "95d28618-f0b3-4dcc-aa9e-3295d5361ec5",
+        "position": 6,
+        "word_count": 7
+      }
+    },
+    {
+      "content": "第一节　一般规定",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "02e222bf-0bf7-4e49-b89e-56d43d9284ef",
+        "position": 7,
+        "word_count": 8
+      }
+    },
+    {
+      "content": "第二节　申请和受理",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "efb2afd3-33d7-484c-81d1-48680ac45efe",
+        "position": 8,
+        "word_count": 9
+      }
+    },
+    {
+      "content": "第三节　开庭和裁决",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "08d19a40-4586-419a-a7f0-f97b84bb36df",
+        "position": 9,
+        "word_count": 9
+      }
+    },
+    {
+      "content": "第四章　附 则",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "5221c32a-0e48-4796-b65c-c67aa7d2f9cd",
+        "position": 10,
+        "word_count": 7
+      }
+    },
+    {
+      "content": "第一章　总 则",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "871d1783-229b-4af6-8493-52a9c54600bf",
+        "position": 11,
+        "word_count": 7
+      }
+    },
+    {
+      "content": "第一条为了公正及时解决劳动争议，保护当事人合法权益，促进劳动关系和谐稳定，制定本法。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "ccf682f8-b465-4b33-a53d-03676ffb7664",
+        "position": 12,
+        "word_count": 42
+      }
+    },
+    {
+      "content": "第二条中华人民共和国境内的用人单位与劳动者发生的下列劳动争议，适用本法：",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "72a05bce-798a-4a1f-bb7b-ae35b46af290",
+        "position": 13,
+        "word_count": 36
+      }
+    },
+    {
+      "content": "（一）因确认劳动关系发生的争议；",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "e96b3024-ead1-4565-88a5-ce7965aa470c",
+        "position": 14,
+        "word_count": 16
+      }
+    },
+    {
+      "content": "（二）因订立、履行、变更、解除和终止劳动合同发生的争议；",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "467a78da-c71e-4f29-9ec5-fd263d632b7a",
+        "position": 15,
+        "word_count": 28
+      }
+    },
+    {
+      "content": "（三）因除名、辞退和辞职、离职发生的争议；",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "20e1dca5-505e-42f5-8bde-0f0224b0610e",
+        "position": 16,
+        "word_count": 21
+      }
+    },
+    {
+      "content": "（四）因工作时间、休息休假、社会保险、福利、培训以及劳动保护发生的争议；",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "4d16866f-88de-4982-b527-4636be77110e",
+        "position": 17,
+        "word_count": 36
+      }
+    },
+    {
+      "content": "（五）因劳动报酬、工伤医疗费、经济补偿或者赔偿金等发生的争议；",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "51a08d5a-6fa9-4a0e-b4de-9495369d6960",
+        "position": 18,
+        "word_count": 31
+      }
+    },
+    {
+      "content": "（六）法律、法规规定的其他劳动争议。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "9ed22e7a-ff1b-48a0-b186-13ec76e21587",
+        "position": 19,
+        "word_count": 18
+      }
+    },
+    {
+      "content": "第三条解决劳动争议，应当根据事实，遵循合法、公正、及时、着重调解的原则，依法保护当事人的合法权益。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "e8a0716f-3642-4db6-9351-06622f05abaa",
+        "position": 20,
+        "word_count": 49
+      }
+    },
+    {
+      "content": "第四条发生劳动争议，劳动者可以与用人单位协商，也可以请工会或者第三方共同与用人单位协商，达成和解协议。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "b8316870-5f05-40e2-8721-e9dc228d6f11",
+        "position": 21,
+        "word_count": 51
+      }
+    },
+    {
+      "content": "第五条发生劳动争议，当事人不愿协商、协商不成或者达成和解协议后不履行的，可以向调解组织申请调解；不愿调解、调解不成或者达成调解协议后不履行的，可以向劳动争议仲裁委员会申请仲裁；对仲裁裁决不服的，除本法另有规定的外，可以向人民法院提起诉讼。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "6d44f3f4-47c1-460a-9d96-10ea6f1ed0c3",
+        "position": 22,
+        "word_count": 119
+      }
+    },
+    {
+      "content": "第六条发生劳动争议，当事人对自己提出的主张，有责任提供证据。与争议事项有关的证据属于用人单位掌握管理的，用人单位应当提供；用人单位不提供的，应当承担不利后果。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "649ee465-3728-40dd-bcd7-01e6273dbbb6",
+        "position": 23,
+        "word_count": 79
+      }
+    },
+    {
+      "content": "第七条发生劳动争议的劳动者一方在十人以上，并有共同请求的，可以推举代表参加调解、仲裁或者诉讼活动。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "ed514676-b2a9-4194-a49e-c482305b3e62",
+        "position": 24,
+        "word_count": 49
+      }
+    },
+    {
+      "content": "第八条县级以上人民政府劳动行政部门会同工会和企业方面代表建立协调劳动关系三方机制，共同研究解决劳动争议的重大问题。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "761fb154-1401-4d6a-b055-67c4d090fe0d",
+        "position": 25,
+        "word_count": 57
+      }
+    },
+    {
+      "content": "第九条用人单位违反国家规定，拖欠或者未足额支付劳动报酬，或者拖欠工伤医疗费、经济补偿或者赔偿金的，劳动者可以向劳动行政部门投诉，劳动行政部门应当依法处理。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "4435036a-98ee-4676-bdf0-8217473e0280",
+        "position": 26,
+        "word_count": 77
+      }
+    },
+    {
+      "content": "第二章　调 解",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "b44034db-3a3b-40de-81ff-859088189dc2",
+        "position": 27,
+        "word_count": 7
+      }
+    },
+    {
+      "content": "第十条发生劳动争议，当事人可以到下列调解组织申请调解：",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "741742e4-d70d-48b5-92dc-483a931fabb4",
+        "position": 28,
+        "word_count": 27
+      }
+    },
+    {
+      "content": "（一）企业劳动争议调解委员会；",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "c697382b-f834-4091-aa82-aa18f8591e72",
+        "position": 29,
+        "word_count": 15
+      }
+    },
+    {
+      "content": "（二）依法设立的基层人民调解组织；",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "e332c476-db00-4a76-8037-cd4cc6cb5be3",
+        "position": 30,
+        "word_count": 17
+      }
+    },
+    {
+      "content": "（三）在乡镇、街道设立的具有劳动争议调解职能的组织。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "24d77735-3200-4722-93f0-b281f845b1bb",
+        "position": 31,
+        "word_count": 26
+      }
+    },
+    {
+      "content": "企业劳动争议调解委员会由职工代表和企业代表组成。职工代表由工会成员担任或者由全体职工推举产生，企业代表由企业负责人指定。企业劳动争议调解委员会主任由工会成员或者双方推举的人员担任。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "a2333988-d352-4705-857a-d2de02e6571e",
+        "position": 32,
+        "word_count": 90
+      }
+    },
+    {
+      "content": "第十一条劳动争议调解组织的调解员应当由公道正派、联系群众、热心调解工作，并具有一定法律知识、政策水平和文化水平的成年公民担任。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "92c24dec-75cb-4177-bad9-1e03e0c07673",
+        "position": 33,
+        "word_count": 63
+      }
+    },
+    {
+      "content": "第十二条当事人申请劳动争议调解可以书面申请，也可以口头申请。口头申请的，调解组织应当当场记录申请人基本情况、申请调解的争议事项、理由和时间。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "489d4a16-7e00-45f7-ac35-29d8c060275c",
+        "position": 34,
+        "word_count": 70
+      }
+    },
+    {
+      "content": "第十三条调解劳动争议，应当充分听取双方当事人对事实和理由的陈述，耐心疏导，帮助其达成协议。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "6bdafd6c-ab93-4cfa-8a87-4aa576115de5",
+        "position": 35,
+        "word_count": 45
+      }
+    },
+    {
+      "content": "第十四条经调解达成协议的，应当制作调解协议书。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "4366b563-9a94-412a-97b9-bf775f143bd0",
+        "position": 36,
+        "word_count": 23
+      }
+    },
+    {
+      "content": "调解协议书由双方当事人签名或者盖章，经调解员签名并加盖调解组织印章后生效，对双方当事人具有约束力，当事人应当履行。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "340908cd-2af5-4281-b0ca-554c38dd2176",
+        "position": 37,
+        "word_count": 57
+      }
+    },
+    {
+      "content": "自劳动争议调解组织收到调解申请之日起十五日内未达成调解协议的，当事人可以依法申请仲裁。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "482f61b5-4f1a-4e34-a951-32cef16e1e0a",
+        "position": 38,
+        "word_count": 43
+      }
+    },
+    {
+      "content": "第十五条达成调解协议后，一方当事人在协议约定期限内不履行调解协议的，另一方当事人可以依法申请仲裁。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "0acf04eb-02d2-4c1c-b09a-1457331912d5",
+        "position": 39,
+        "word_count": 49
+      }
+    },
+    {
+      "content": "第十六条因支付拖欠劳动报酬、工伤医疗费、经济补偿或者赔偿金事项达成调解协议，用人单位在协议约定期限内不履行的，劳动者可以持调解协议书依法向人民法院申请支付令。人民法院应当依法发出支付令。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "eb6246a8-0a07-4e3e-b047-67f317f67655",
+        "position": 40,
+        "word_count": 93
+      }
+    },
+    {
+      "content": "第三章　仲 裁",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "14e5837f-b3fe-44a7-8d58-25a28bdfb932",
+        "position": 41,
+        "word_count": 7
+      }
+    },
+    {
+      "content": "第一节　一般规定",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "4139bd69-11d9-4d45-935f-450da1ee1487",
+        "position": 42,
+        "word_count": 8
+      }
+    },
+    {
+      "content": "第十七条劳动争议仲裁委员会按照统筹规划、合理布局和适应实际需要的原则设立。省、自治区人民政府可以决定在市、县设立；直辖市人民政府可以决定在区、县设立。直辖市、设区的市也可以设立一个或者若干个劳动争议仲裁委员会。劳动争议仲裁委员会不按行政区划层层设立。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "63c5683e-e1df-4170-8af9-f90a7ea884d1",
+        "position": 43,
+        "word_count": 125
+      }
+    },
+    {
+      "content": "第十八条国务院劳动行政部门依照本法有关规定制定仲裁规则。省、自治区、直辖市人民政府劳动行政部门对本行政区域的劳动争议仲裁工作进行指导。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "2cf97dd0-40ed-41a5-857d-24104829954b",
+        "position": 44,
+        "word_count": 67
+      }
+    },
+    {
+      "content": "第十九条劳动争议仲裁委员会由劳动行政部门代表、工会代表和企业方面代表组成。劳动争议仲裁委员会组成人员应当是单数。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "ed01ad6f-3c70-4651-bc30-8223223cdda2",
+        "position": 45,
+        "word_count": 56
+      }
+    },
+    {
+      "content": "劳动争议仲裁委员会依法履行下列职责：",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "98ebfcdf-1fa5-4e80-8c9f-c9d6e6df13b4",
+        "position": 46,
+        "word_count": 18
+      }
+    },
+    {
+      "content": "（一）聘任、解聘专职或者兼职仲裁员；",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "c7116316-0e72-4eb4-929d-dc04b147fbd4",
+        "position": 47,
+        "word_count": 18
+      }
+    },
+    {
+      "content": "（二）受理劳动争议案件；",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "8f3336a2-73a3-4af0-b41f-f4515c2fee12",
+        "position": 48,
+        "word_count": 12
+      }
+    },
+    {
+      "content": "（三）讨论重大或者疑难的劳动争议案件；",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "bfa4aa74-42c9-450f-b8c5-d2a3decea20b",
+        "position": 49,
+        "word_count": 19
+      }
+    },
+    {
+      "content": "（四）对仲裁活动进行监督。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "cb561a97-6382-4878-95ee-c92c5ad1effd",
+        "position": 50,
+        "word_count": 13
+      }
+    },
+    {
+      "content": "劳动争议仲裁委员会下设办事机构，负责办理劳动争议仲裁委员会的日常工作。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "c7f9de40-dd80-4581-b7f5-1e10b4ec988c",
+        "position": 51,
+        "word_count": 35
+      }
+    },
+    {
+      "content": "第二十条劳动争议仲裁委员会应当设仲裁员名册。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "4a6c6645-0e06-4e87-bc25-6e85a39a71fa",
+        "position": 52,
+        "word_count": 22
+      }
+    },
+    {
+      "content": "仲裁员应当公道正派并符合下列条件之一：",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "5eca83ca-3112-4a82-a290-da36634c2912",
+        "position": 53,
+        "word_count": 19
+      }
+    },
+    {
+      "content": "（一）曾任审判员的；",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "644526db-f338-42e5-b410-5a332d7dabae",
+        "position": 54,
+        "word_count": 10
+      }
+    },
+    {
+      "content": "（二）从事法律研究、教学工作并具有中级以上职称的；",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "758efebd-e615-42b2-bbb4-efe70c8046a0",
+        "position": 55,
+        "word_count": 25
+      }
+    },
+    {
+      "content": "（三）具有法律知识、从事人力资源管理或者工会等专业工作满五年的；",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "d03a19b9-269a-4db5-b5de-4644e5cc2ee7",
+        "position": 56,
+        "word_count": 32
+      }
+    },
+    {
+      "content": "（四）律师执业满三年的。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "ffed1de4-be28-474d-96a8-a65090c5141b",
+        "position": 57,
+        "word_count": 12
+      }
+    },
+    {
+      "content": "第二十一条劳动争议仲裁委员会负责管辖本区域内发生的劳动争议。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "f634fa4b-0381-429d-bcfc-64435363a2d8",
+        "position": 58,
+        "word_count": 30
+      }
+    },
+    {
+      "content": "劳动争议由劳动合同履行地或者用人单位所在地的劳动争议仲裁委员会管辖。双方当事人分别向劳动合同履行地和用人单位所在地的劳动争议仲裁委员会申请仲裁的，由劳动合同履行地的劳动争议仲裁委员会管辖。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "875ff6d3-158e-4e8b-8510-6861d0fb88c3",
+        "position": 59,
+        "word_count": 94
+      }
+    },
+    {
+      "content": "第二十二条发生劳动争议的劳动者和用人单位为劳动争议仲裁案件的双方当事人。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "df64bf6d-b309-4798-a29c-7619d7ad1aae",
+        "position": 60,
+        "word_count": 36
+      }
+    },
+    {
+      "content": "劳务派遣单位或者用工单位与劳动者发生劳动争议的，劳务派遣单位和用工单位为共同当事人。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "7f75da39-ef3d-4ccf-a8fd-827d4f4e6493",
+        "position": 61,
+        "word_count": 42
+      }
+    },
+    {
+      "content": "第二十三条与劳动争议案件的处理结果有利害关系的第三人，可以申请参加仲裁活动或者由劳动争议仲裁委员会通知其参加仲裁活动。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "66c26b38-6dcb-404c-8ff3-d19e75a08cfc",
+        "position": 62,
+        "word_count": 59
+      }
+    },
+    {
+      "content": "第二十四条当事人可以委托代理人参加仲裁活动。委托他人参加仲裁活动，应当向劳动争议仲裁委员会提交有委托人签名或者盖章的委托书，委托书应当载明委托事项和权限。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "e7baa596-971a-4e93-a83c-2948f55b4708",
+        "position": 63,
+        "word_count": 77
+      }
+    },
+    {
+      "content": "第二十五条丧失或者部分丧失民事行为能力的劳动者，由其法定代理人代为参加仲裁活动；无法定代理人的，由劳动争议仲裁委员会为其指定代理人。劳动者死亡的，由其近亲属或者代理人参加仲裁活动。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "11652170-1036-49ca-92ea-f1211253fd09",
+        "position": 64,
+        "word_count": 90
+      }
+    },
+    {
+      "content": "第二十六条劳动争议仲裁公开进行，但当事人协议不公开进行或者涉及国家秘密、商业秘密和个人隐私的除外。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "673bcbcc-52fa-4be3-a735-a2d577f41078",
+        "position": 65,
+        "word_count": 49
+      }
+    },
+    {
+      "content": "第二节　申请和受理",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "49377e41-c496-4d07-845a-bc47ed810d03",
+        "position": 66,
+        "word_count": 9
+      }
+    },
+    {
+      "content": "第二十七条劳动争议申请仲裁的时效期间为一年。仲裁时效期间从当事人知道或者应当知道其权利被侵害之日起计算。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "0a99921c-7b85-4e3c-91fd-b02a5bf7f131",
+        "position": 67,
+        "word_count": 52
+      }
+    },
+    {
+      "content": "前款规定的仲裁时效，因当事人一方向对方当事人主张权利，或者向有关部门请求权利救济，或者对方当事人同意履行义务而中断。从中断时起，仲裁时效期间重新计算。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "ab995587-d63c-4622-a943-83c14cc41089",
+        "position": 68,
+        "word_count": 75
+      }
+    },
+    {
+      "content": "因不可抗力或者有其他正当理由，当事人不能在本条第一款规定的仲裁时效期间申请仲裁的，仲裁时效中止。从中止时效的原因消除之日起，仲裁时效期间继续计算。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "976337d2-f898-4d16-a67e-6ec7429e1ab3",
+        "position": 69,
+        "word_count": 73
+      }
+    },
+    {
+      "content": "劳动关系存续期间因拖欠劳动报酬发生争议的，劳动者申请仲裁不受本条第一款规定的仲裁时效期间的限制；但是，劳动关系终止的，应当自劳动关系终止之日起一年内提出。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "846c39fa-7675-48df-a522-ef719909e65d",
+        "position": 70,
+        "word_count": 77
+      }
+    },
+    {
+      "content": "第二十八条申请人申请仲裁应当提交书面仲裁申请，并按照被申请人人数提交副本。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "5d8bcf04-0bb4-4fda-9aa6-711bafe514a7",
+        "position": 71,
+        "word_count": 37
+      }
+    },
+    {
+      "content": "仲裁申请书应当载明下列事项：",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "2427683e-4f0d-47a3-8c13-945f308b038e",
+        "position": 72,
+        "word_count": 14
+      }
+    },
+    {
+      "content": "（一）劳动者的姓名、性别、年龄、职业、工作单位和住所，用人单位的名称、住所和法定代表人或者主要负责人的姓名、职务；",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "2c43440d-e041-46ea-b7bf-f42f068d7b41",
+        "position": 73,
+        "word_count": 57
+      }
+    },
+    {
+      "content": "（二）仲裁请求和所根据的事实、理由；",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "afa50dc2-d36e-402f-9acc-3294a52a3ba0",
+        "position": 74,
+        "word_count": 18
+      }
+    },
+    {
+      "content": "（三）证据和证据来源、证人姓名和住所。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "12331e8f-8c00-4c8a-8fd0-643fdcbcda82",
+        "position": 75,
+        "word_count": 19
+      }
+    },
+    {
+      "content": "书写仲裁申请确有困难的，可以口头申请，由劳动争议仲裁委员会记入笔录，并告知对方当事人。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "8a924d2a-ba14-4e18-a8a9-69add45a57ca",
+        "position": 76,
+        "word_count": 43
+      }
+    },
+    {
+      "content": "第二十九条劳动争议仲裁委员会收到仲裁申请之日起五日内，认为符合受理条件的，应当受理，并通知申请人；认为不符合受理条件的，应当书面通知申请人不予受理，并说明理由。对劳动争议仲裁委员会不予受理或者逾期未作出决定的，申请人可以就该劳动争议事项向人民法院提起诉讼。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "a8504ad1-3c3b-436b-861b-276eb3a1b1a9",
+        "position": 77,
+        "word_count": 128
+      }
+    },
+    {
+      "content": "第三十条劳动争议仲裁委员会受理仲裁申请后，应当在五日内将仲裁申请书副本送达被申请人。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "d5b7152a-fef5-4721-8ba1-d84afe2f2acd",
+        "position": 78,
+        "word_count": 42
+      }
+    },
+    {
+      "content": "被申请人收到仲裁申请书副本后，应当在十日内向劳动争议仲裁委员会提交答辩书。劳动争议仲裁委员会收到答辩书后，应当在五日内将答辩书副本送达申请人。被申请人未提交答辩书的，不影响仲裁程序的进行。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "43e6d687-5257-4f1c-9c69-584d26fc74b1",
+        "position": 79,
+        "word_count": 94
+      }
+    },
+    {
+      "content": "第三节　开庭和裁决",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "1b7df0b5-42c1-444f-b273-e0fc22517dc8",
+        "position": 80,
+        "word_count": 9
+      }
+    },
+    {
+      "content": "第三十一条劳动争议仲裁委员会裁决劳动争议案件实行仲裁庭制。仲裁庭由三名仲裁员组成，设首席仲裁员。简单劳动争议案件可以由一名仲裁员独任仲裁。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "cfde9ad6-fc25-4b51-a804-71c8e320047d",
+        "position": 81,
+        "word_count": 69
+      }
+    },
+    {
+      "content": "第三十二条劳动争议仲裁委员会应当在受理仲裁申请之日起五日内将仲裁庭的组成情况书面通知当事人。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "2cf1289d-7355-412f-93e3-78bede4e23ac",
+        "position": 82,
+        "word_count": 46
+      }
+    },
+    {
+      "content": "第三十三条仲裁员有下列情形之一，应当回避，当事人也有权以口头或者书面方式提出回避申请：",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "0c5556cf-5bae-46fe-a580-b762623d7095",
+        "position": 83,
+        "word_count": 43
+      }
+    },
+    {
+      "content": "（一）是本案当事人或者当事人、代理人的近亲属的；",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "0525001e-5bdc-4f98-980a-08a3e129b76e",
+        "position": 84,
+        "word_count": 24
+      }
+    },
+    {
+      "content": "（二）与本案有利害关系的；",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "ee07fa1c-7c7a-4272-97ff-88a36bb56f61",
+        "position": 85,
+        "word_count": 13
+      }
+    },
+    {
+      "content": "（三）与本案当事人、代理人有其他关系，可能影响公正裁决的；",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "2f40cf28-7291-4bf7-9edf-896885a64c10",
+        "position": 86,
+        "word_count": 29
+      }
+    },
+    {
+      "content": "（四）私自会见当事人、代理人，或者接受当事人、代理人的请客送礼的。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "d5a2a8a7-7b34-41b8-aca6-a6677d9781e2",
+        "position": 87,
+        "word_count": 33
+      }
+    },
+    {
+      "content": "劳动争议仲裁委员会对回避申请应当及时作出决定，并以口头或者书面方式通知当事人。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "03bcb754-5291-413b-a6b8-c5dbbb6c5a7b",
+        "position": 88,
+        "word_count": 39
+      }
+    },
+    {
+      "content": "第三十四条仲裁员有本法第三十三条第四项规定情形，或者有索贿受贿、徇私舞弊、枉法裁决行为的，应当依法承担法律责任。劳动争议仲裁委员会应当将其解聘。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "a0ff7935-a509-4261-bceb-b6a03aed9c3f",
+        "position": 89,
+        "word_count": 72
+      }
+    },
+    {
+      "content": "第三十五条仲裁庭应当在开庭五日前，将开庭日期、地点书面通知双方当事人。当事人有正当理由的，可以在开庭三日前请求延期开庭。是否延期，由劳动争议仲裁委员会决定。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "4a1cf250-8918-478a-b5a2-0d478f092b9a",
+        "position": 90,
+        "word_count": 78
+      }
+    },
+    {
+      "content": "第三十六条申请人收到书面通知，无正当理由拒不到庭或者未经仲裁庭同意中途退庭的，可以视为撤回仲裁申请。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "0213f531-9fe2-4c5b-b041-f5f9d2077f07",
+        "position": 91,
+        "word_count": 50
+      }
+    },
+    {
+      "content": "被申请人收到书面通知，无正当理由拒不到庭或者未经仲裁庭同意中途退庭的，可以缺席裁决。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "36c3c02e-6ef2-4cf7-a229-8947582a4b14",
+        "position": 92,
+        "word_count": 42
+      }
+    },
+    {
+      "content": "第三十七条仲裁庭对专门性问题认为需要鉴定的，可以交由当事人约定的鉴定机构鉴定；当事人没有约定或者无法达成约定的，由仲裁庭指定的鉴定机构鉴定。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "ce5da304-5423-4252-bee0-af5d15de3cf9",
+        "position": 93,
+        "word_count": 70
+      }
+    },
+    {
+      "content": "根据当事人的请求或者仲裁庭的要求，鉴定机构应当派鉴定人参加开庭。当事人经仲裁庭许可，可以向鉴定人提问。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "d993b8a2-8c35-45e3-a6ff-a29c87d778fd",
+        "position": 94,
+        "word_count": 51
+      }
+    },
+    {
+      "content": "第三十八条当事人在仲裁过程中有权进行质证和辩论。质证和辩论终结时，首席仲裁员或者独任仲裁员应当征询当事人的最后意见。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "1dfa97e1-5f06-4305-bc65-64fecdc719a2",
+        "position": 95,
+        "word_count": 58
+      }
+    },
+    {
+      "content": "第三十九条当事人提供的证据经查证属实的，仲裁庭应当将其作为认定事实的根据。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "09e4d156-a9ba-4f24-b05e-34d9695baf6a",
+        "position": 96,
+        "word_count": 37
+      }
+    },
+    {
+      "content": "劳动者无法提供由用人单位掌握管理的与仲裁请求有关的证据，仲裁庭可以要求用人单位在指定期限内提供。用人单位在指定期限内不提供的，应当承担不利后果。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "0c88d974-5d9f-4d35-8c2a-e9b121ccad80",
+        "position": 97,
+        "word_count": 72
+      }
+    },
+    {
+      "content": "第四十条仲裁庭应当将开庭情况记入笔录。当事人和其他仲裁参加人认为对自己陈述的记录有遗漏或者差错的，有权申请补正。如果不予补正，应当记录该申请。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "ffbe3760-4abf-4833-87d9-8b3cfcff55e1",
+        "position": 98,
+        "word_count": 71
+      }
+    },
+    {
+      "content": "笔录由仲裁员、记录人员、当事人和其他仲裁参加人签名或者盖章。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "8e0d85fa-6dab-4a4e-8321-a6b0e507a2d6",
+        "position": 99,
+        "word_count": 30
+      }
+    },
+    {
+      "content": "第四十一条当事人申请劳动争议仲裁后，可以自行和解。达成和解协议的，可以撤回仲裁申请。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "c94edc15-1eef-4a2d-b2eb-adefbd62171e",
+        "position": 100,
+        "word_count": 42
+      }
+    },
+    {
+      "content": "第四十二条仲裁庭在作出裁决前，应当先行调解。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "9769450b-6eb1-4aa0-959a-de13d57b4cd1",
+        "position": 101,
+        "word_count": 22
+      }
+    },
+    {
+      "content": "调解达成协议的，仲裁庭应当制作调解书。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "a6cd9e88-e773-45b4-b9ed-55a7e400c93d",
+        "position": 102,
+        "word_count": 19
+      }
+    },
+    {
+      "content": "调解书应当写明仲裁请求和当事人协议的结果。调解书由仲裁员签名，加盖劳动争议仲裁委员会印章，送达双方当事人。调解书经双方当事人签收后，发生法律效力。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "17629ce1-2ab5-4e83-a997-6c4dbc203128",
+        "position": 103,
+        "word_count": 73
+      }
+    },
+    {
+      "content": "调解不成或者调解书送达前，一方当事人反悔的，仲裁庭应当及时作出裁决。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "8d63ae97-e213-4531-b0c3-880541eb718e",
+        "position": 104,
+        "word_count": 34
+      }
+    },
+    {
+      "content": "第四十三条仲裁庭裁决劳动争议案件，应当自劳动争议仲裁委员会受理仲裁申请之日起四十五日内结束。案情复杂需要延期的，经劳动争议仲裁委员会主任批准，可以延期并书面通知当事人，但是延长期限不得超过十五日。逾期未作出仲裁裁决的，当事人可以就该劳动争议事项向人民法院提起诉讼。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "e0261c56-3a55-4900-9608-e0d70f1c9e09",
+        "position": 105,
+        "word_count": 132
+      }
+    },
+    {
+      "content": "仲裁庭裁决劳动争议案件时，其中一部分事实已经清楚，可以就该部分先行裁决。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "1b557be4-d466-43a8-9b39-2fd8f2e91fcb",
+        "position": 106,
+        "word_count": 36
+      }
+    },
+    {
+      "content": "第四十四条仲裁庭对追索劳动报酬、工伤医疗费、经济补偿或者赔偿金的案件，根据当事人的申请，可以裁决先予执行，移送人民法院执行。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "0b617958-e91f-45fe-ada8-68c56108cf81",
+        "position": 107,
+        "word_count": 62
+      }
+    },
+    {
+      "content": "仲裁庭裁决先予执行的，应当符合下列条件：",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "a44801cb-2313-4663-a935-8605853c089c",
+        "position": 108,
+        "word_count": 20
+      }
+    },
+    {
+      "content": "（一）当事人之间权利义务关系明确；",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "76a605c9-1140-44ff-a9ef-e25dca04c9f3",
+        "position": 109,
+        "word_count": 17
+      }
+    },
+    {
+      "content": "（二）不先予执行将严重影响申请人的生活。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "794593a2-aa44-4b42-bf9b-da77e5c46f30",
+        "position": 110,
+        "word_count": 20
+      }
+    },
+    {
+      "content": "劳动者申请先予执行的，可以不提供担保。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "c01c3af5-6644-4e0f-9301-efc7d2fec6a6",
+        "position": 111,
+        "word_count": 19
+      }
+    },
+    {
+      "content": "第四十五条裁决应当按照多数仲裁员的意见作出，少数仲裁员的不同意见应当记入笔录。仲裁庭不能形成多数意见时，裁决应当按照首席仲裁员的意见作出。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "e28818b7-a69f-430c-825b-c19d951a4eb7",
+        "position": 112,
+        "word_count": 69
+      }
+    },
+    {
+      "content": "第四十六条裁决书应当载明仲裁请求、争议事实、裁决理由、裁决结果和裁决日期。裁决书由仲裁员签名，加盖劳动争议仲裁委员会印章。对裁决持不同意见的仲裁员，可以签名，也可以不签名。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "6a58c119-0e0f-4715-a630-dae90fa18598",
+        "position": 113,
+        "word_count": 86
+      }
+    },
+    {
+      "content": "第四十七条下列劳动争议，除本法另有规定的外，仲裁裁决为终局裁决，裁决书自作出之日起发生法律效力：",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "c15a04dd-7318-4dde-be06-779e8244691f",
+        "position": 114,
+        "word_count": 48
+      }
+    },
+    {
+      "content": "（一）追索劳动报酬、工伤医疗费、经济补偿或者赔偿金，不超过当地月最低工资标准十二个月金额的争议；",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "1a78b3fb-6b5e-463a-9416-09866c56c536",
+        "position": 115,
+        "word_count": 48
+      }
+    },
+    {
+      "content": "（二）因执行国家的劳动标准在工作时间、休息休假、社会保险等方面发生的争议。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "68707cd6-b402-4a8e-b928-e309e38454f6",
+        "position": 116,
+        "word_count": 37
+      }
+    },
+    {
+      "content": "第四十八条劳动者对本法第四十七条规定的仲裁裁决不服的，可以自收到仲裁裁决书之日起十五日内向人民法院提起诉讼。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "be879911-e29d-4213-bf39-73150895d80e",
+        "position": 117,
+        "word_count": 54
+      }
+    },
+    {
+      "content": "第四十九条用人单位有证据证明本法第四十七条规定的仲裁裁决有下列情形之一，可以自收到仲裁裁决书之日起三十日内向劳动争议仲裁委员会所在地的中级人民法院申请撤销裁决：",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "59b65512-3db9-4926-b00e-15f50a0764b0",
+        "position": 118,
+        "word_count": 80
+      }
+    },
+    {
+      "content": "（一）适用法律、法规确有错误的；",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "303c9c68-e042-499e-a386-bb51a8e82b26",
+        "position": 119,
+        "word_count": 16
+      }
+    },
+    {
+      "content": "（二）劳动争议仲裁委员会无管辖权的；",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "71202bb7-d15d-415d-8200-5773d98877ef",
+        "position": 120,
+        "word_count": 18
+      }
+    },
+    {
+      "content": "（三）违反法定程序的；",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "a54e3abf-c5d8-4d7c-82a2-922c33054f98",
+        "position": 121,
+        "word_count": 11
+      }
+    },
+    {
+      "content": "（四）裁决所根据的证据是伪造的；",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "ad3b8bae-9e1a-4c08-8f3d-db7be9521340",
+        "position": 122,
+        "word_count": 16
+      }
+    },
+    {
+      "content": "（五）对方当事人隐瞒了足以影响公正裁决的证据的；",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "e04ada3a-b43f-410f-b01c-9f3ad12ebb66",
+        "position": 123,
+        "word_count": 24
+      }
+    },
+    {
+      "content": "（六）仲裁员在仲裁该案时有索贿受贿、徇私舞弊、枉法裁决行为的。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "b84ae4c0-2115-4f87-9902-37ff25d33cc6",
+        "position": 124,
+        "word_count": 31
+      }
+    },
+    {
+      "content": "人民法院经组成合议庭审查核实裁决有前款规定情形之一的，应当裁定撤销。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "9a003b29-b922-42d1-942c-e5704c87e686",
+        "position": 125,
+        "word_count": 34
+      }
+    },
+    {
+      "content": "仲裁裁决被人民法院裁定撤销的，当事人可以自收到裁定书之日起十五日内就该劳动争议事项向人民法院提起诉讼。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "81b9e942-c749-4558-8fc4-628aaf8796d5",
+        "position": 126,
+        "word_count": 51
+      }
+    },
+    {
+      "content": "第五十条当事人对本法第四十七条规定以外的其他劳动争议案件的仲裁裁决不服的，可以自收到仲裁裁决书之日起十五日内向人民法院提起诉讼；期满不起诉的，裁决书发生法律效力。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "b81af0a8-4f4d-40a6-9e9d-47bff9b70a44",
+        "position": 127,
+        "word_count": 81
+      }
+    },
+    {
+      "content": "第五十一条当事人对发生法律效力的调解书、裁决书，应当依照规定的期限履行。一方当事人逾期不履行的，另一方当事人可以依照民事诉讼法的有关规定向人民法院申请执行。受理申请的人民法院应当依法执行。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "fcee7413-72a7-46b6-98c2-897f4a5e6d68",
+        "position": 128,
+        "word_count": 94
+      }
+    },
+    {
+      "content": "第四章　附 则",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "11af75f7-898e-4913-892c-c35fb6075f48",
+        "position": 129,
+        "word_count": 7
+      }
+    },
+    {
+      "content": "第五十二条事业单位实行聘用制的工作人员与本单位发生劳动争议的，依照本法执行；法律、行政法规或者国务院另有规定的，依照其规定。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "743cf495-5dd8-4d6b-a2d4-9d94ac1ca07f",
+        "position": 130,
+        "word_count": 62
+      }
+    },
+    {
+      "content": "第五十三条劳动争议仲裁不收费。劳动争议仲裁委员会的经费由财政予以保障。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "f8ab971b-f425-403a-80e7-11871efc3475",
+        "position": 131,
+        "word_count": 35
+      }
+    },
+    {
+      "content": "第五十四条本法自2008年5月1日起施行。",
+      "metadata": {
+        "source": "中华人民共和国劳动争议调解仲裁法_20071229.docx",
+        "document_id": "3fe38547-9772-4458-94fc-a53f23092ed3",
+        "segment_id": "bfc62e78-d212-4e8d-a0dc-fb22d42124df",
+        "position": 132,
+        "word_count": 21
+      }
+    },
+    {
+      "content": "| 标题： 中华人民共和国劳动合同法 | |",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "8beae0b7-0261-4dee-bda7-661bf3e50ab0",
+        "position": 1,
+        "word_count": 22
+      }
+    },
+    {
+      "content": "| --- | --- |",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "ecf620a0-fa1c-4e41-a50b-4602c13512ec",
+        "position": 2,
+        "word_count": 13
+      }
+    },
+    {
+      "content": "| 索引号： 2021-1623286879239 | 主题分类： 总局涉及职能的法律 |",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "487b01d2-92ad-4467-b62c-f53ae4e71d2e",
+        "position": 3,
+        "word_count": 45
+      }
+    },
+    {
+      "content": "| 文号： 无 | 公布日期： 2012年12月28日 |",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "aea3e39a-2342-4404-9116-f7af46e1dc06",
+        "position": 4,
+        "word_count": 29
+      }
+    },
+    {
+      "content": "中华人民共和国劳动合同法",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "b7f68708-2cf2-4b2d-8233-ee31c86f7fcb",
+        "position": 5,
+        "word_count": 12
+      }
+    },
+    {
+      "content": "（2007年6月29日第十届全国人民代表大会常务委员会第二十八次会议通过根据2012年12月28日第十一届全国人民代表大会常务委员会第三十次会议《关于修改<中华人民共和国劳动合同法>的决定》修正）",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "3b9bb10c-07d9-465c-a00c-5524ba01eedc",
+        "position": 6,
+        "word_count": 98
+      }
+    },
+    {
+      "content": "目录",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "4cf50d7c-644c-40fb-b58c-c8151e686667",
+        "position": 7,
+        "word_count": 2
+      }
+    },
+    {
+      "content": "第一章总则",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "efae5802-7fc5-429d-95de-9cc552dc46b3",
+        "position": 8,
+        "word_count": 5
+      }
+    },
+    {
+      "content": "第二章劳动合同的订立",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "926039b0-9bd9-47ad-8fd4-87aacc6c1253",
+        "position": 9,
+        "word_count": 10
+      }
+    },
+    {
+      "content": "第三章劳动合同的履行和变更",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "6093ba30-77ac-4f78-8db5-d90f3a192859",
+        "position": 10,
+        "word_count": 13
+      }
+    },
+    {
+      "content": "第四章劳动合同的解除和终止",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "259ff963-2a7b-4de0-862d-011bf21cfbc9",
+        "position": 11,
+        "word_count": 13
+      }
+    },
+    {
+      "content": "第五章特别规定",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "b2b1196d-b709-4467-850d-c72205733c66",
+        "position": 12,
+        "word_count": 7
+      }
+    },
+    {
+      "content": "第一节集体合同",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "13e82149-a6a4-4a1b-878a-2531f1269d15",
+        "position": 13,
+        "word_count": 7
+      }
+    },
+    {
+      "content": "第二节劳务派遣",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "c564eeb8-4adb-4b44-8f04-8ce00dc27fcb",
+        "position": 14,
+        "word_count": 7
+      }
+    },
+    {
+      "content": "第三节非全日制用工",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "279b4118-c74e-4a59-8d6e-c65f53bdcfa7",
+        "position": 15,
+        "word_count": 9
+      }
+    },
+    {
+      "content": "第六章监督检查",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "df67bca7-bcab-4dba-a18c-e391cb07d6c6",
+        "position": 16,
+        "word_count": 7
+      }
+    },
+    {
+      "content": "第七章法律责任",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "7628b879-64c6-4b0e-9fb5-45f43e776e9f",
+        "position": 17,
+        "word_count": 7
+      }
+    },
+    {
+      "content": "第八章附则",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "b3da50ff-194f-4ae0-af9c-dff8674a5120",
+        "position": 18,
+        "word_count": 5
+      }
+    },
+    {
+      "content": "第一章总则",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "04220e85-5c0d-474b-8ad1-4fad2c7312cb",
+        "position": 19,
+        "word_count": 5
+      }
+    },
+    {
+      "content": "第一条为了完善劳动合同制度，明确劳动合同双方当事人的权利和义务，保护劳动者的合法权益，构建和发展和谐稳定的劳动关系，制定本法。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "3c3db15d-7628-437d-ab78-e25bc58249a6",
+        "position": 20,
+        "word_count": 63
+      }
+    },
+    {
+      "content": "第二条中华人民共和国境内的企业、个体经济组织、民办非企业单位等组织（以下称用人单位）与劳动者建立劳动关系，订立、履行、变更、解除或者终止劳动合同，适用本法。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "0d7cb120-9f36-4049-97f3-702f2c209363",
+        "position": 21,
+        "word_count": 78
+      }
+    },
+    {
+      "content": "国家机关、事业单位、社会团体和与其建立劳动关系的劳动者，订立、履行、变更、解除或者终止劳动合同，依照本法执行。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "63d5b26f-1821-4717-aca8-a48feb51dfe7",
+        "position": 22,
+        "word_count": 55
+      }
+    },
+    {
+      "content": "第三条订立劳动合同，应当遵循合法、公平、平等自愿、协商一致、诚实信用的原则。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "e9cff8c3-dcb8-4f70-b5ba-8a10483e92d0",
+        "position": 23,
+        "word_count": 38
+      }
+    },
+    {
+      "content": "依法订立的劳动合同具有约束力，用人单位与劳动者应当履行劳动合同约定的义务。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "cdb4f6a1-1088-4a4c-883f-6b97933617ed",
+        "position": 24,
+        "word_count": 37
+      }
+    },
+    {
+      "content": "第四条用人单位应当依法建立和完善劳动规章制度，保障劳动者享有劳动权利、履行劳动义务。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "9420a1ac-beb1-4412-a30f-3d18fd4e1d0f",
+        "position": 25,
+        "word_count": 42
+      }
+    },
+    {
+      "content": "用人单位在制定、修改或者决定有关劳动报酬、工作时间、休息休假、劳动安全卫生、保险福利、职工培训、劳动纪律以及劳动定额管理等直接涉及劳动者切身利益的规章制度或者重大事项时，应当经职工代表大会或者全体职工讨论，提出方案和意见，与工会或者职工代表平等协商确定。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "1b208d26-52f6-48e2-8fa2-92c971074944",
+        "position": 26,
+        "word_count": 127
+      }
+    },
+    {
+      "content": "在规章制度和重大事项决定实施过程中，工会或者职工认为不适当的，有权向用人单位提出，通过协商予以修改完善。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "bc3ed31e-7e87-4f8f-bf3a-fd38725361e0",
+        "position": 27,
+        "word_count": 52
+      }
+    },
+    {
+      "content": "用人单位应当将直接涉及劳动者切身利益的规章制度和重大事项决定公示，或者告知劳动者。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "9a37d3d0-8d97-454a-a58c-5ff22bd789c6",
+        "position": 28,
+        "word_count": 41
+      }
+    },
+    {
+      "content": "第五条县级以上人民政府劳动行政部门会同工会和企业方面代表，建立健全协调劳动关系三方机制，共同研究解决有关劳动关系的重大问题。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "211dcb70-ab85-409f-9c21-8e853ea3c54f",
+        "position": 29,
+        "word_count": 62
+      }
+    },
+    {
+      "content": "第六条工会应当帮助、指导劳动者与用人单位依法订立和履行劳动合同，并与用人单位建立集体协商机制，维护劳动者的合法权益。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "3c1f4103-4f56-4fb5-95e2-0ce6e5d19a07",
+        "position": 30,
+        "word_count": 58
+      }
+    },
+    {
+      "content": "第二章劳动合同的订立",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "242f37aa-5e78-48b7-b9cf-39d4581f1fdd",
+        "position": 31,
+        "word_count": 10
+      }
+    },
+    {
+      "content": "第七条用人单位自用工之日起即与劳动者建立劳动关系。用人单位应当建立职工名册备查。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "c6178db8-e451-4a2d-8c49-2de356e648ce",
+        "position": 32,
+        "word_count": 40
+      }
+    },
+    {
+      "content": "第八条用人单位招用劳动者时，应当如实告知劳动者工作内容、工作条件、工作地点、职业危害、安全生产状况、劳动报酬，以及劳动者要求了解的其他情况；用人单位有权了解劳动者与劳动合同直接相关的基本情况，劳动者应当如实说明。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "f17b27bf-37b6-4de6-b194-2c70c94052e5",
+        "position": 33,
+        "word_count": 106
+      }
+    },
+    {
+      "content": "第九条用人单位招用劳动者，不得扣押劳动者的居民身份证和其他证件，不得要求劳动者提供担保或者以其他名义向劳动者收取财物。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "ea4ceb4b-49cf-4ed4-ac25-c8cab9d63cf2",
+        "position": 34,
+        "word_count": 59
+      }
+    },
+    {
+      "content": "第十条建立劳动关系，应当订立书面劳动合同。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "eb1ad0e3-5e4b-43c5-b745-1c39898e0b1a",
+        "position": 35,
+        "word_count": 21
+      }
+    },
+    {
+      "content": "已建立劳动关系，未同时订立书面劳动合同的，应当自用工之日起一个月内订立书面劳动合同。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "d64fbf66-89df-4738-93e5-15c43b83145d",
+        "position": 36,
+        "word_count": 42
+      }
+    },
+    {
+      "content": "用人单位与劳动者在用工前订立劳动合同的，劳动关系自用工之日起建立。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "cd2d65ce-6e1b-47ee-8afd-85bbdf7990bf",
+        "position": 37,
+        "word_count": 33
+      }
+    },
+    {
+      "content": "第十一条用人单位未在用工的同时订立书面劳动合同，与劳动者约定的劳动报酬不明确的，新招用的劳动者的劳动报酬按照集体合同规定的标准执行；没有集体合同或者集体合同未规定的，实行同工同酬。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "7d430ff9-7357-466c-99af-042a6089b6f2",
+        "position": 38,
+        "word_count": 90
+      }
+    },
+    {
+      "content": "第十二条劳动合同分为固定期限劳动合同、无固定期限劳动合同和以完成一定工作任务为期限的劳动合同。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "22ec0601-5edd-4030-a3fe-20e6f09e356e",
+        "position": 39,
+        "word_count": 47
+      }
+    },
+    {
+      "content": "第十三条固定期限劳动合同，是指用人单位与劳动者约定合同终止时间的劳动合同。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "f9c428e9-c589-4c60-a27f-1787d5d23cb7",
+        "position": 40,
+        "word_count": 37
+      }
+    },
+    {
+      "content": "用人单位与劳动者协商一致，可以订立固定期限劳动合同。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "4ae5c1b7-0811-4988-9877-6af7570bb390",
+        "position": 41,
+        "word_count": 26
+      }
+    },
+    {
+      "content": "第十四条无固定期限劳动合同，是指用人单位与劳动者约定无确定终止时间的劳动合同。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "bf859b46-5929-45de-a2ef-bc10f394d037",
+        "position": 42,
+        "word_count": 39
+      }
+    },
+    {
+      "content": "用人单位与劳动者协商一致，可以订立无固定期限劳动合同。有下列情形之一，劳动者提出或者同意续订、订立劳动合同的，除劳动者提出订立固定期限劳动合同外，应当订立无固定期限劳动合同:",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "c3ce11b0-9e44-4550-a077-c16ba66e6096",
+        "position": 43,
+        "word_count": 87
+      }
+    },
+    {
+      "content": "（一）劳动者在该用人单位连续工作满十年的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "08859ecf-7d13-4100-8e1b-26fb466c2902",
+        "position": 44,
+        "word_count": 21
+      }
+    },
+    {
+      "content": "（二）用人单位初次实行劳动合同制度或者国有企业改制重新订立劳动合同时，劳动者在该用人单位连续工作满十年且距法定退休年龄不足十年的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "fe06dbed-d875-4273-9b4b-5645fae6f00c",
+        "position": 45,
+        "word_count": 65
+      }
+    },
+    {
+      "content": "（三）连续订立二次固定期限劳动合同，且劳动者没有本法第三十九条和第四十条第一项、第二项规定的情形，续订劳动合同的。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "abf842c2-3720-4206-a462-9b57f065e998",
+        "position": 46,
+        "word_count": 57
+      }
+    },
+    {
+      "content": "用人单位自用工之日起满一年不与劳动者订立书面劳动合同的，视为用人单位与劳动者已订立无固定期限劳动合同。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "4261723b-be8d-4cd6-bd91-92de46e9c53a",
+        "position": 47,
+        "word_count": 51
+      }
+    },
+    {
+      "content": "第十五条以完成一定工作任务为期限的劳动合同，是指用人单位与劳动者约定以某项工作的完成为合同期限的劳动合同。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "5465b389-88bd-4fb9-bbcc-0104cce17c7f",
+        "position": 48,
+        "word_count": 53
+      }
+    },
+    {
+      "content": "用人单位与劳动者协商一致，可以订立以完成一定工作任务为期限的劳动合同。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "f5eb638e-559a-4a99-acaf-78fbd703c08b",
+        "position": 49,
+        "word_count": 35
+      }
+    },
+    {
+      "content": "第十六条劳动合同由用人单位与劳动者协商一致，并经用人单位与劳动者在劳动合同文本上签字或者盖章生效。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "552758d2-4391-4571-9486-e087c69cf587",
+        "position": 50,
+        "word_count": 49
+      }
+    },
+    {
+      "content": "劳动合同文本由用人单位和劳动者各执一份。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "8ae7f3b8-5aa3-4503-b392-959097b1133f",
+        "position": 51,
+        "word_count": 20
+      }
+    },
+    {
+      "content": "第十七条劳动合同应当具备以下条款:",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "f4115c08-9ac7-42df-8db8-81ea8cf14c0f",
+        "position": 52,
+        "word_count": 17
+      }
+    },
+    {
+      "content": "（一）用人单位的名称、住所和法定代表人或者主要负责人；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "c42d76df-9cda-4ab5-8a11-ef568983587f",
+        "position": 53,
+        "word_count": 27
+      }
+    },
+    {
+      "content": "（二）劳动者的姓名、住址和居民身份证或者其他有效身份证件号码；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "f4d98e42-3c9c-48dc-9ae5-261021b16182",
+        "position": 54,
+        "word_count": 31
+      }
+    },
+    {
+      "content": "（三）劳动合同期限；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "a2eb2607-d335-4433-b030-562c574335d4",
+        "position": 55,
+        "word_count": 10
+      }
+    },
+    {
+      "content": "（四）工作内容和工作地点；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "15b02a0e-e677-4dec-9e6b-adc8961bc4b4",
+        "position": 56,
+        "word_count": 13
+      }
+    },
+    {
+      "content": "（五）工作时间和休息休假；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "1b8294fa-1bd7-4f3e-a02a-37aa0c0ed005",
+        "position": 57,
+        "word_count": 13
+      }
+    },
+    {
+      "content": "（六）劳动报酬；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "9e78b4dd-6905-4986-b5e0-82da2a9ed430",
+        "position": 58,
+        "word_count": 8
+      }
+    },
+    {
+      "content": "（七）社会保险；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "c8715412-bdeb-4add-bfdb-07b7523bbc1d",
+        "position": 59,
+        "word_count": 8
+      }
+    },
+    {
+      "content": "（八）劳动保护、劳动条件和职业危害防护；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "c5bf6d17-f42e-428e-abd8-6f7ba57f032b",
+        "position": 60,
+        "word_count": 20
+      }
+    },
+    {
+      "content": "（九）法律、法规规定应当纳入劳动合同的其他事项。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "ae0ed68e-9215-4b93-a6d0-e84e18f8d1af",
+        "position": 61,
+        "word_count": 24
+      }
+    },
+    {
+      "content": "劳动合同除前款规定的必备条款外，用人单位与劳动者可以约定试用期、培训、保守秘密、补充保险和福利待遇等其他事项。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "e355ad9b-a7d8-419c-8f8a-30f0a3a9ad37",
+        "position": 62,
+        "word_count": 55
+      }
+    },
+    {
+      "content": "第十八条劳动合同对劳动报酬和劳动条件等标准约定不明确，引发争议的，用人单位与劳动者可以重新协商；协商不成的，适用集体合同规定；没有集体合同或者集体合同未规定劳动报酬的，实行同工同酬；没有集体合同或者集体合同未规定劳动条件等标准的，适用国家有关规定。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "da1aac89-0f01-4ba6-a4b0-845e511898d5",
+        "position": 63,
+        "word_count": 124
+      }
+    },
+    {
+      "content": "第十九条劳动合同期限三个月以上不满一年的，试用期不得超过一个月；劳动合同期限一年以上不满三年的，试用期不得超过二个月；三年以上固定期限和无固定期限的劳动合同，试用期不得超过六个月。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "c03f812f-ed60-4801-9ed1-b84090b74015",
+        "position": 64,
+        "word_count": 90
+      }
+    },
+    {
+      "content": "同一用人单位与同一劳动者只能约定一次试用期。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "22d47e20-ae7c-4ea1-9d4b-f7fda5d09932",
+        "position": 65,
+        "word_count": 22
+      }
+    },
+    {
+      "content": "以完成一定工作任务为期限的劳动合同或者劳动合同期限不满三个月的，不得约定试用期。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "4affe6da-4498-4999-8ade-ddce090297d3",
+        "position": 66,
+        "word_count": 40
+      }
+    },
+    {
+      "content": "试用期包含在劳动合同期限内。劳动合同仅约定试用期的，试用期不成立，该期限为劳动合同期限。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "db306b58-6f94-42e7-9fc4-98d98d07e0dc",
+        "position": 67,
+        "word_count": 44
+      }
+    },
+    {
+      "content": "第二十条劳动者在试用期的工资不得低于本单位相同岗位最低档工资或者劳动合同约定工资的百分之八十，并不得低于用人单位所在地的最低工资标准。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "14114421-aeb9-4d89-bc16-40396c30e8b6",
+        "position": 68,
+        "word_count": 67
+      }
+    },
+    {
+      "content": "第二十一条在试用期中，除劳动者有本法第三十九条和第四十条第一项、第二项规定的情形外，用人单位不得解除劳动合同。用人单位在试用期解除劳动合同的，应当向劳动者说明理由。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "39516e0c-9452-4ea1-8ec6-95c29a6b0840",
+        "position": 69,
+        "word_count": 82
+      }
+    },
+    {
+      "content": "第二十二条用人单位为劳动者提供专项培训费用，对其进行专业技术培训的，可以与该劳动者订立协议，约定服务期。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "b124ca18-ff69-40cc-a2b0-9eeee8a6f6d6",
+        "position": 70,
+        "word_count": 52
+      }
+    },
+    {
+      "content": "劳动者违反服务期约定的，应当按照约定向用人单位支付违约金。违约金的数额不得超过用人单位提供的培训费用。用人单位要求劳动者支付的违约金不得超过服务期尚未履行部分所应分摊的培训费用。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "372c50d9-16c9-44dc-8666-02a4d7af8d09",
+        "position": 71,
+        "word_count": 89
+      }
+    },
+    {
+      "content": "用人单位与劳动者约定服务期的，不影响按照正常的工资调整机制提高劳动者在服务期期间的劳动报酬。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "25fa9395-7f03-4702-be6c-290f6177a79a",
+        "position": 72,
+        "word_count": 46
+      }
+    },
+    {
+      "content": "第二十三条用人单位与劳动者可以在劳动合同中约定保守用人单位的商业秘密和与知识产权相关的保密事项。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "3afa9de4-b56a-4e45-a04e-da132c722467",
+        "position": 73,
+        "word_count": 48
+      }
+    },
+    {
+      "content": "对负有保密义务的劳动者，用人单位可以在劳动合同或者保密协议中与劳动者约定竞业限制条款，并约定在解除或者终止劳动合同后，在竞业限制期限内按月给予劳动者经济补偿。劳动者违反竞业限制约定的，应当按照约定向用人单位支付违约金。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "4ce627ce-f0d9-4ce4-9d91-082318f775a6",
+        "position": 74,
+        "word_count": 109
+      }
+    },
+    {
+      "content": "第二十四条竞业限制的人员限于用人单位的高级管理人员、高级技术人员和其他负有保密义务的人员。竞业限制的范围、地域、期限由用人单位与劳动者约定，竞业限制的约定不得违反法律、法规的规定。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "5a50d664-cf49-4301-9cba-412ad63aa532",
+        "position": 75,
+        "word_count": 90
+      }
+    },
+    {
+      "content": "在解除或者终止劳动合同后，前款规定的人员到与本单位生产或者经营同类产品、从事同类业务的有竞争关系的其他用人单位，或者自己开业生产或者经营同类产品、从事同类业务的竞业限制期限，不得超过二年。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "8ddbad88-8c96-4467-ba37-8067c7dc4739",
+        "position": 76,
+        "word_count": 94
+      }
+    },
+    {
+      "content": "第二十五条除本法第二十二条和第二十三条规定的情形外，用人单位不得与劳动者约定由劳动者承担违约金。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "3d75b80e-dc53-4923-a3ef-8e8d21b8f1f5",
+        "position": 77,
+        "word_count": 48
+      }
+    },
+    {
+      "content": "第二十六条下列劳动合同无效或者部分无效:",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "9ca5a1e5-d452-4cb7-96cb-47d9d0aa7629",
+        "position": 78,
+        "word_count": 20
+      }
+    },
+    {
+      "content": "（一）以欺诈、胁迫的手段或者乘人之危，使对方在违背真实意思的情况下订立或者变更劳动合同的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "cf0ffcd3-0f29-47f3-b42d-576710296e8a",
+        "position": 79,
+        "word_count": 45
+      }
+    },
+    {
+      "content": "（二）用人单位免除自己的法定责任、排除劳动者权利的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "4ae7a995-46d4-4a60-9a27-fd374235e105",
+        "position": 80,
+        "word_count": 26
+      }
+    },
+    {
+      "content": "（三）违反法律、行政法规强制性规定的。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "57bd1d20-955c-4a35-b553-b806bb1086de",
+        "position": 81,
+        "word_count": 19
+      }
+    },
+    {
+      "content": "对劳动合同的无效或者部分无效有争议的，由劳动争议仲裁机构或者人民法院确认。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "19766189-8699-4bdd-9d5d-b9e5b1ae1a18",
+        "position": 82,
+        "word_count": 37
+      }
+    },
+    {
+      "content": "第二十七条劳动合同部分无效，不影响其他部分效力的，其他部分仍然有效。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "fd63d1a2-fdb7-4451-a264-e45c7fbe4825",
+        "position": 83,
+        "word_count": 34
+      }
+    },
+    {
+      "content": "第二十八条劳动合同被确认无效，劳动者已付出劳动的，用人单位应当向劳动者支付劳动报酬。劳动报酬的数额，参照本单位相同或者相近岗位劳动者的劳动报酬确定。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "ddc798cd-ef1f-4e88-9f93-dfcf1d4a7d9a",
+        "position": 84,
+        "word_count": 74
+      }
+    },
+    {
+      "content": "第三章劳动合同的履行和变更",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "f8b0c483-7817-4857-a393-6cd53d9e6df3",
+        "position": 85,
+        "word_count": 13
+      }
+    },
+    {
+      "content": "第二十九条用人单位与劳动者应当按照劳动合同的约定，全面履行各自的义务。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "73e83a8f-f447-4ad0-a29d-ae8d921da26f",
+        "position": 86,
+        "word_count": 35
+      }
+    },
+    {
+      "content": "第三十条用人单位应当按照劳动合同约定和国家规定，向劳动者及时足额支付劳动报酬。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "f98fb567-dd41-47dc-b08e-cf7b3e173cdc",
+        "position": 87,
+        "word_count": 39
+      }
+    },
+    {
+      "content": "用人单位拖欠或者未足额支付劳动报酬的，劳动者可以依法向当地人民法院申请支付令，人民法院应当依法发出支付令。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "da791973-1f5a-4c62-b5bf-78b3db5d308c",
+        "position": 88,
+        "word_count": 53
+      }
+    },
+    {
+      "content": "第三十一条用人单位应当严格执行劳动定额标准，不得强迫或者变相强迫劳动者加班。用人单位安排加班的，应当按照国家有关规定向劳动者支付加班费。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "6b311e9d-4714-4459-ac91-e964fb5fbb9d",
+        "position": 89,
+        "word_count": 68
+      }
+    },
+    {
+      "content": "第三十二条劳动者拒绝用人单位管理人员违章指挥、强令冒险作业的，不视为违反劳动合同。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "56abc60a-2e50-4cc1-929a-6c02c699778c",
+        "position": 90,
+        "word_count": 41
+      }
+    },
+    {
+      "content": "劳动者对危害生命安全和身体健康的劳动条件，有权对用人单位提出批评、检举和控告。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "3b965c7a-3828-4359-a3e0-09530f014511",
+        "position": 91,
+        "word_count": 39
+      }
+    },
+    {
+      "content": "第三十三条用人单位变更名称、法定代表人、主要负责人或者投资人等事项，不影响劳动合同的履行。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "8231dcca-3f8f-4aaf-8897-4eb58b4fbc6b",
+        "position": 92,
+        "word_count": 45
+      }
+    },
+    {
+      "content": "第三十四条用人单位发生合并或者分立等情况，原劳动合同继续有效，劳动合同由承继其权利和义务的用人单位继续履行。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "adda03e8-c514-4a95-b70a-75da78362d15",
+        "position": 93,
+        "word_count": 54
+      }
+    },
+    {
+      "content": "第三十五条用人单位与劳动者协商一致，可以变更劳动合同约定的内容。变更劳动合同，应当采用书面形式。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "39a6fd45-30b4-4415-9b54-4763db54da1e",
+        "position": 94,
+        "word_count": 48
+      }
+    },
+    {
+      "content": "变更后的劳动合同文本由用人单位和劳动者各执一份。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "04a0e2bb-30b2-452c-b4c2-cf2892f761f1",
+        "position": 95,
+        "word_count": 24
+      }
+    },
+    {
+      "content": "第四章劳动合同的解除和终止",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "77dc2f47-46c2-4c8d-a845-771044beefd8",
+        "position": 96,
+        "word_count": 13
+      }
+    },
+    {
+      "content": "第三十六条用人单位与劳动者协商一致，可以解除劳动合同。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "51e1ca36-bfe6-433c-8227-d740a2ada840",
+        "position": 97,
+        "word_count": 27
+      }
+    },
+    {
+      "content": "第三十七条劳动者提前三十日以书面形式通知用人单位，可以解除劳动合同。劳动者在试用期内提前三日通知用人单位，可以解除劳动合同。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "1cfccfbb-8bca-47f9-b2bb-6fd74d8a7d94",
+        "position": 98,
+        "word_count": 62
+      }
+    },
+    {
+      "content": "第三十八条用人单位有下列情形之一的，劳动者可以解除劳动合同:",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "4a7dbe45-cacc-471a-b955-1c62544cefc0",
+        "position": 99,
+        "word_count": 30
+      }
+    },
+    {
+      "content": "（一）未按照劳动合同约定提供劳动保护或者劳动条件的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "b2358ea4-717b-4813-8f97-6d87f1608ac8",
+        "position": 100,
+        "word_count": 26
+      }
+    },
+    {
+      "content": "（二）未及时足额支付劳动报酬的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "8e2b0a02-4ffe-4705-a2e7-9744c8717bc8",
+        "position": 101,
+        "word_count": 16
+      }
+    },
+    {
+      "content": "（三）未依法为劳动者缴纳社会保险费的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "16c6aca1-99fa-41ba-854a-eb6ca4a12e97",
+        "position": 102,
+        "word_count": 19
+      }
+    },
+    {
+      "content": "（四）用人单位的规章制度违反法律、法规的规定，损害劳动者权益的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "215d5a45-a7bd-4c22-86e0-48b08c6d6d34",
+        "position": 103,
+        "word_count": 32
+      }
+    },
+    {
+      "content": "（五）因本法第二十六条第一款规定的情形致使劳动合同无效的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "50067176-f789-4438-845f-16d039c0f29f",
+        "position": 104,
+        "word_count": 29
+      }
+    },
+    {
+      "content": "（六）法律、行政法规规定劳动者可以解除劳动合同的其他情形。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "1bbf647b-067a-41be-8c6b-1de65f563a41",
+        "position": 105,
+        "word_count": 29
+      }
+    },
+    {
+      "content": "用人单位以暴力、威胁或者非法限制人身自由的手段强迫劳动者劳动的，或者用人单位违章指挥、强令冒险作业危及劳动者人身安全的，劳动者可以立即解除劳动合同，不需事先告知用人单位。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "4e019eb4-7b42-4818-8720-a02b6e74d21b",
+        "position": 106,
+        "word_count": 85
+      }
+    },
+    {
+      "content": "第三十九条劳动者有下列情形之一的，用人单位可以解除劳动合同:",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "6fa35172-2f4e-4a68-a621-4023910dc1f0",
+        "position": 107,
+        "word_count": 30
+      }
+    },
+    {
+      "content": "（一）在试用期间被证明不符合录用条件的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "bcea75ce-b953-4750-a090-9e1db2caf4f6",
+        "position": 108,
+        "word_count": 20
+      }
+    },
+    {
+      "content": "（二）严重违反用人单位的规章制度的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "8aa5e4a0-f969-4e2a-8386-c6982c71076b",
+        "position": 109,
+        "word_count": 18
+      }
+    },
+    {
+      "content": "（三）严重失职，营私舞弊，给用人单位造成重大损害的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "867d51cc-81c4-4f5b-92cb-f57f958dbf47",
+        "position": 110,
+        "word_count": 26
+      }
+    },
+    {
+      "content": "（四）劳动者同时与其他用人单位建立劳动关系，对完成本单位的工作任务造成严重影响，或者经用人单位提出，拒不改正的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "5b0b06e0-bbd9-471e-b76c-c58737fbd82f",
+        "position": 111,
+        "word_count": 56
+      }
+    },
+    {
+      "content": "（五）因本法第二十六条第一款第一项规定的情形致使劳动合同无效的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "60d9096e-b713-4b4a-97bb-d0a69f954f5b",
+        "position": 112,
+        "word_count": 32
+      }
+    },
+    {
+      "content": "（六）被依法追究刑事责任的。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "4dae14c1-dccd-42bd-b443-ed46e4a680bb",
+        "position": 113,
+        "word_count": 14
+      }
+    },
+    {
+      "content": "第四十条有下列情形之一的，用人单位提前三十日以书面形式通知劳动者本人或者额外支付劳动者一个月工资后，可以解除劳动合同:",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "8a55e169-ac5b-4c65-ab67-647d5e79833c",
+        "position": 114,
+        "word_count": 59
+      }
+    },
+    {
+      "content": "（一）劳动者患病或者非因工负伤，在规定的医疗期满后不能从事原工作，也不能从事由用人单位另行安排的工作的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "407eb06e-1287-4c91-b5ad-2818bfba4b26",
+        "position": 115,
+        "word_count": 52
+      }
+    },
+    {
+      "content": "（二）劳动者不能胜任工作，经过培训或者调整工作岗位，仍不能胜任工作的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "76b6c6c8-0c2d-43eb-af8f-a983fbf9a924",
+        "position": 116,
+        "word_count": 35
+      }
+    },
+    {
+      "content": "（三）劳动合同订立时所依据的客观情况发生重大变化，致使劳动合同无法履行，经用人单位与劳动者协商，未能就变更劳动合同内容达成协议的。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "76fce133-d134-4cc9-a388-8be2125b1540",
+        "position": 117,
+        "word_count": 65
+      }
+    },
+    {
+      "content": "第四十一条有下列情形之一，需要裁减人员二十人以上或者裁减不足二十人但占企业职工总数百分之十以上的，用人单位提前三十日向工会或者全体职工说明情况，听取工会或者职工的意见后，裁减人员方案经向劳动行政部门报告，可以裁减人员:",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "bd48e070-91ba-4833-90db-2a964115d820",
+        "position": 118,
+        "word_count": 109
+      }
+    },
+    {
+      "content": "（一）依照企业破产法规定进行重整的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "18b9f607-a0c9-42b0-bb27-4c0a0a6f190d",
+        "position": 119,
+        "word_count": 18
+      }
+    },
+    {
+      "content": "（二）生产经营发生严重困难的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "7fe42094-5cec-4f86-8483-7db88df59d6b",
+        "position": 120,
+        "word_count": 15
+      }
+    },
+    {
+      "content": "（三）企业转产、重大技术革新或者经营方式调整，经变更劳动合同后，仍需裁减人员的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "6e30064d-1f26-4448-bd66-cd98c03975d4",
+        "position": 121,
+        "word_count": 40
+      }
+    },
+    {
+      "content": "（四）其他因劳动合同订立时所依据的客观经济情况发生重大变化，致使劳动合同无法履行的。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "9df90783-b485-4e54-9b70-00d50b71414c",
+        "position": 122,
+        "word_count": 42
+      }
+    },
+    {
+      "content": "裁减人员时，应当优先留用下列人员:",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "0415b6fe-b69b-4501-a9f6-b9587e731db8",
+        "position": 123,
+        "word_count": 17
+      }
+    },
+    {
+      "content": "（一）与本单位订立较长期限的固定期限劳动合同的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "a1263cb5-b43f-4e3c-bff5-19e88976275f",
+        "position": 124,
+        "word_count": 24
+      }
+    },
+    {
+      "content": "（二）与本单位订立无固定期限劳动合同的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "0937a35c-9809-421e-b1c2-84f26ae2a468",
+        "position": 125,
+        "word_count": 20
+      }
+    },
+    {
+      "content": "（三）家庭无其他就业人员，有需要扶养的老人或者未成年人的。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "b4fa05e6-635f-46e4-a87e-83e538dc2661",
+        "position": 126,
+        "word_count": 29
+      }
+    },
+    {
+      "content": "用人单位依照本条第一款规定裁减人员，在六个月内重新招用人员的，应当通知被裁减的人员，并在同等条件下优先招用被裁减的人员。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "62f1618b-f5d1-45b0-bc41-978e1b93a59e",
+        "position": 127,
+        "word_count": 60
+      }
+    },
+    {
+      "content": "第四十二条劳动者有下列情形之一的，用人单位不得依照本法第四十条、第四十一条的规定解除劳动合同:",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "6571638d-1971-412a-a60d-8b78261153bd",
+        "position": 128,
+        "word_count": 47
+      }
+    },
+    {
+      "content": "（一）从事接触职业病危害作业的劳动者未进行离岗前职业健康检查，或者疑似职业病病人在诊断或者医学观察期间的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "eff36634-0e09-42f5-8076-0a9241b65372",
+        "position": 129,
+        "word_count": 53
+      }
+    },
+    {
+      "content": "（二）在本单位患职业病或者因工负伤并被确认丧失或者部分丧失劳动能力的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "3e875488-3e85-45b3-b022-c1456e9fc2a9",
+        "position": 130,
+        "word_count": 35
+      }
+    },
+    {
+      "content": "（三）患病或者非因工负伤，在规定的医疗期内的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "e3ca625d-4ae5-47a8-8097-225950f9be77",
+        "position": 131,
+        "word_count": 23
+      }
+    },
+    {
+      "content": "（四）女职工在孕期、产期、哺乳期的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "1503f72f-e481-4839-b3bc-92074da28236",
+        "position": 132,
+        "word_count": 18
+      }
+    },
+    {
+      "content": "（五）在本单位连续工作满十五年，且距法定退休年龄不足五年的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "e30025ad-a861-4747-8ab3-85fa7f444ba7",
+        "position": 133,
+        "word_count": 30
+      }
+    },
+    {
+      "content": "（六）法律、行政法规规定的其他情形。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "b21f0bea-be27-4575-b186-0349e32ec9a3",
+        "position": 134,
+        "word_count": 18
+      }
+    },
+    {
+      "content": "第四十三条用人单位单方解除劳动合同，应当事先将理由通知工会。用人单位违反法律、行政法规规定或者劳动合同约定的，工会有权要求用人单位纠正。用人单位应当研究工会的意见，并将处理结果书面通知工会。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "5e9d2dd9-77c1-4eb8-b3db-22d6c7739995",
+        "position": 135,
+        "word_count": 95
+      }
+    },
+    {
+      "content": "第四十四条有下列情形之一的，劳动合同终止:",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "1c87f7ea-0198-4a86-9e12-5d7f8c9cc87b",
+        "position": 136,
+        "word_count": 21
+      }
+    },
+    {
+      "content": "（一）劳动合同期满的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "74b64677-fdb1-4ce7-a2b5-ef74bd82e2b9",
+        "position": 137,
+        "word_count": 11
+      }
+    },
+    {
+      "content": "（二）劳动者开始依法享受基本养老保险待遇的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "523436af-9940-4833-9fd1-d31830cb1d0e",
+        "position": 138,
+        "word_count": 22
+      }
+    },
+    {
+      "content": "（三）劳动者死亡，或者被人民法院宣告死亡或者宣告失踪的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "11a889f1-4a3f-4531-884a-500c69e98d13",
+        "position": 139,
+        "word_count": 28
+      }
+    },
+    {
+      "content": "（四）用人单位被依法宣告破产的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "1f5bbe51-d709-4d27-8997-46785d05f18f",
+        "position": 140,
+        "word_count": 16
+      }
+    },
+    {
+      "content": "（五）用人单位被吊销营业执照、责令关闭、撤销或者用人单位决定提前解散的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "49e40be5-0c52-48b2-b160-7566dedeb1d7",
+        "position": 141,
+        "word_count": 36
+      }
+    },
+    {
+      "content": "（六）法律、行政法规规定的其他情形。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "a5f86dfc-4cc7-44b2-81b4-405ea68e55b2",
+        "position": 142,
+        "word_count": 18
+      }
+    },
+    {
+      "content": "第四十五条劳动合同期满，有本法第四十二条规定情形之一的，劳动合同应当续延至相应的情形消失时终止。但是，本法第四十二条第二项规定丧失或者部分丧失劳动能力劳动者的劳动合同的终止，按照国家有关工伤保险的规定执行。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "0537ae59-4053-4565-9f6f-b47344a4cbc5",
+        "position": 143,
+        "word_count": 103
+      }
+    },
+    {
+      "content": "第四十六条有下列情形之一的，用人单位应当向劳动者支付经济补偿:",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "22ef8de0-aef3-44fb-bcae-84f8be00d2e8",
+        "position": 144,
+        "word_count": 31
+      }
+    },
+    {
+      "content": "（一）劳动者依照本法第三十八条规定解除劳动合同的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "5a88291c-c229-4885-a539-8f6d9b0c85e5",
+        "position": 145,
+        "word_count": 25
+      }
+    },
+    {
+      "content": "（二）用人单位依照本法第三十六条规定向劳动者提出解除劳动合同并与劳动者协商一致解除劳动合同的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "c52f4383-15be-459d-b27c-6c3e1d52742d",
+        "position": 146,
+        "word_count": 47
+      }
+    },
+    {
+      "content": "（三）用人单位依照本法第四十条规定解除劳动合同的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "244092ff-a744-4ec8-9341-0f0e67e5ae86",
+        "position": 147,
+        "word_count": 25
+      }
+    },
+    {
+      "content": "（四）用人单位依照本法第四十一条第一款规定解除劳动合同的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "9ecc1b30-c6fc-4bdc-b3ca-2626db680371",
+        "position": 148,
+        "word_count": 29
+      }
+    },
+    {
+      "content": "（五）除用人单位维持或者提高劳动合同约定条件续订劳动合同，劳动者不同意续订的情形外，依照本法第四十四条第一项规定终止固定期限劳动合同的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "7834e6fe-2af7-443f-9e41-689901400f90",
+        "position": 149,
+        "word_count": 68
+      }
+    },
+    {
+      "content": "（六）依照本法第四十四条第四项、第五项规定终止劳动合同的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "ed5265b6-47e2-417d-ab6a-c97b3c682cb8",
+        "position": 150,
+        "word_count": 29
+      }
+    },
+    {
+      "content": "（七）法律、行政法规规定的其他情形。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "14e66ee9-9f6b-4df5-b307-f6fe6adba5c3",
+        "position": 151,
+        "word_count": 18
+      }
+    },
+    {
+      "content": "第四十七条经济补偿按劳动者在本单位工作的年限，每满一年支付一个月工资的标准向劳动者支付。六个月以上不满一年的，按一年计算；不满六个月的，向劳动者支付半个月工资的经济补偿。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "7e252f6f-0997-4e83-88e4-62b0758432a2",
+        "position": 152,
+        "word_count": 85
+      }
+    },
+    {
+      "content": "劳动者月工资高于用人单位所在直辖市、设区的市级人民政府公布的本地区上年度职工月平均工资三倍的，向其支付经济补偿的标准按职工月平均工资三倍的数额支付，向其支付经济补偿的年限最高不超过十二年。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "91f4ccf6-b678-4760-8c5d-dcebce95daa3",
+        "position": 153,
+        "word_count": 94
+      }
+    },
+    {
+      "content": "本条所称月工资是指劳动者在劳动合同解除或者终止前十二个月的平均工资。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "de8151bf-5411-4dc6-8f98-931583c2f5b1",
+        "position": 154,
+        "word_count": 34
+      }
+    },
+    {
+      "content": "第四十八条用人单位违反本法规定解除或者终止劳动合同，劳动者要求继续履行劳动合同的，用人单位应当继续履行；劳动者不要求继续履行劳动合同或者劳动合同已经不能继续履行的，用人单位应当依照本法第八十七条规定支付赔偿金。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "883ed339-0d7e-4e80-b069-00ccca8461aa",
+        "position": 155,
+        "word_count": 105
+      }
+    },
+    {
+      "content": "第四十九条国家采取措施，建立健全劳动者社会保险关系跨地区转移接续制度。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "ab124d53-737e-473d-ad00-0906bde0e2f0",
+        "position": 156,
+        "word_count": 35
+      }
+    },
+    {
+      "content": "第五十条用人单位应当在解除或者终止劳动合同时出具解除或者终止劳动合同的证明，并在十五日内为劳动者办理档案和社会保险关系转移手续。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "9615a2aa-591d-48c9-b473-4d17b37a023d",
+        "position": 157,
+        "word_count": 64
+      }
+    },
+    {
+      "content": "劳动者应当按照双方约定，办理工作交接。用人单位依照本法有关规定应当向劳动者支付经济补偿的，在办结工作交接时支付。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "6d3d3a9e-4946-44d7-8b40-8e971580516a",
+        "position": 158,
+        "word_count": 56
+      }
+    },
+    {
+      "content": "用人单位对已经解除或者终止的劳动合同的文本，至少保存二年备查。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "78e7406d-2c16-4cf9-a5e8-19b0d5fc3d9d",
+        "position": 159,
+        "word_count": 31
+      }
+    },
+    {
+      "content": "第五章特别规定",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "187f45f5-abcf-4f9b-8e24-0aea062ff9d7",
+        "position": 160,
+        "word_count": 7
+      }
+    },
+    {
+      "content": "第一节集体合同",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "9bbdac85-7edb-4b07-83c3-970e341bfbcb",
+        "position": 161,
+        "word_count": 7
+      }
+    },
+    {
+      "content": "第五十一条企业职工一方与用人单位通过平等协商，可以就劳动报酬、工作时间、休息休假、劳动安全卫生、保险福利等事项订立集体合同。集体合同草案应当提交职工代表大会或者全体职工讨论通过。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "109033ae-2fbf-4fa6-b96e-cdac0bdda6e1",
+        "position": 162,
+        "word_count": 89
+      }
+    },
+    {
+      "content": "集体合同由工会代表企业职工一方与用人单位订立；尚未建立工会的用人单位，由上级工会指导劳动者推举的代表与用人单位订立。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "a10f0756-aa5d-4c09-8514-7c33f8221614",
+        "position": 163,
+        "word_count": 58
+      }
+    },
+    {
+      "content": "第五十二条企业职工一方与用人单位可以订立劳动安全卫生、女职工权益保护、工资调整机制等专项集体合同。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "3bc8fa22-686a-4255-be95-e00e38a26d99",
+        "position": 164,
+        "word_count": 49
+      }
+    },
+    {
+      "content": "第五十三条在县级以下区域内，建筑业、采矿业、餐饮服务业等行业可以由工会与企业方面代表订立行业性集体合同，或者订立区域性集体合同。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "f706a0ce-cf6f-4425-ae0c-4dfbf6a6b22a",
+        "position": 165,
+        "word_count": 64
+      }
+    },
+    {
+      "content": "第五十四条集体合同订立后，应当报送劳动行政部门；劳动行政部门自收到集体合同文本之日起十五日内未提出异议的，集体合同即行生效。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "b94ec856-9fce-46d5-8051-d2157abcc740",
+        "position": 166,
+        "word_count": 62
+      }
+    },
+    {
+      "content": "依法订立的集体合同对用人单位和劳动者具有约束力。行业性、区域性集体合同对当地本行业、本区域的用人单位和劳动者具有约束力。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "3cee6d8e-a64f-471a-9250-9bd12d07fa0c",
+        "position": 167,
+        "word_count": 60
+      }
+    },
+    {
+      "content": "第五十五条集体合同中劳动报酬和劳动条件等标准不得低于当地人民政府规定的最低标准；用人单位与劳动者订立的劳动合同中劳动报酬和劳动条件等标准不得低于集体合同规定的标准。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "24c9148a-f850-4591-893d-c43016b80ce4",
+        "position": 168,
+        "word_count": 82
+      }
+    },
+    {
+      "content": "第五十六条用人单位违反集体合同，侵犯职工劳动权益的，工会可以依法要求用人单位承担责任；因履行集体合同发生争议，经协商解决不成的，工会可以依法申请仲裁、提起诉讼。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "e8544946-fd38-4866-bcf2-4bf804bb60c0",
+        "position": 169,
+        "word_count": 80
+      }
+    },
+    {
+      "content": "第二节劳务派遣",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "4d556d3e-ff21-4add-9f8a-104f5ffaabc1",
+        "position": 170,
+        "word_count": 7
+      }
+    },
+    {
+      "content": "第五十七条经营劳务派遣业务应当具备下列条件:",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "2bbbf994-cec2-4717-bed3-6f0d1b547aee",
+        "position": 171,
+        "word_count": 22
+      }
+    },
+    {
+      "content": "（一）注册资本不得少于人民币二百万元；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "fe27351f-18cd-4248-bd2c-af3300c1a31d",
+        "position": 172,
+        "word_count": 19
+      }
+    },
+    {
+      "content": "（二）有与开展业务相适应的固定的经营场所和设施；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "c55f0311-a4d7-4ebd-9cd4-09913f394ea4",
+        "position": 173,
+        "word_count": 24
+      }
+    },
+    {
+      "content": "（三）有符合法律、行政法规规定的劳务派遣管理制度；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "e8526ae2-12a6-4ca0-a7c5-2f07ae2bfcfd",
+        "position": 174,
+        "word_count": 25
+      }
+    },
+    {
+      "content": "（四）法律、行政法规规定的其他条件。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "b7440830-9332-4c86-b042-9ab064c5f8b8",
+        "position": 175,
+        "word_count": 18
+      }
+    },
+    {
+      "content": "经营劳务派遣业务，应当向劳动行政部门依法申请行政许可；经许可的，依法办理相应的公司登记。未经许可，任何单位和个人不得经营劳务派遣业务。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "2b71082b-e04f-41d3-9dc5-d7481840f3e2",
+        "position": 176,
+        "word_count": 67
+      }
+    },
+    {
+      "content": "第五十八条劳务派遣单位是本法所称用人单位，应当履行用人单位对劳动者的义务。劳务派遣单位与被派遣劳动者订立的劳动合同，除应当载明本法第十七条规定的事项外，还应当载明被派遣劳动者的用工单位以及派遣期限、工作岗位等情况。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "735478b5-560d-42ad-b126-bb7a6547cf5d",
+        "position": 177,
+        "word_count": 107
+      }
+    },
+    {
+      "content": "劳务派遣单位应当与被派遣劳动者订立二年以上的固定期限劳动合同，按月支付劳动报酬；被派遣劳动者在无工作期间，劳务派遣单位应当按照所在地人民政府规定的最低工资标准，向其按月支付报酬。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "41d84e0c-1a5c-41b4-b8a1-19d909a93ae6",
+        "position": 178,
+        "word_count": 89
+      }
+    },
+    {
+      "content": "第五十九条劳务派遣单位派遣劳动者应当与接受以劳务派遣形式用工的单位（以下称用工单位）订立劳务派遣协议。劳务派遣协议应当约定派遣岗位和人员数量、派遣期限、劳动报酬和社会保险费的数额与支付方式以及违反协议的责任。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "f3a4806b-0053-4d60-a42d-c29751ec92d0",
+        "position": 179,
+        "word_count": 104
+      }
+    },
+    {
+      "content": "用工单位应当根据工作岗位的实际需要与劳务派遣单位确定派遣期限，不得将连续用工期限分割订立数个短期劳务派遣协议。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "df181f50-902a-4d3b-b390-e53442aba525",
+        "position": 180,
+        "word_count": 55
+      }
+    },
+    {
+      "content": "第六十条劳务派遣单位应当将劳务派遣协议的内容告知被派遣劳动者。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "b01b67ca-8827-4790-9b7d-95e05cf33e09",
+        "position": 181,
+        "word_count": 31
+      }
+    },
+    {
+      "content": "劳务派遣单位不得克扣用工单位按照劳务派遣协议支付给被派遣劳动者的劳动报酬。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "2003f1ed-0497-45e0-a75e-6a55a242d84c",
+        "position": 182,
+        "word_count": 37
+      }
+    },
+    {
+      "content": "劳务派遣单位和用工单位不得向被派遣劳动者收取费用。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "8a56b6a6-7dfa-42fb-b147-174edc31e8cd",
+        "position": 183,
+        "word_count": 25
+      }
+    },
+    {
+      "content": "第六十一条劳务派遣单位跨地区派遣劳动者的，被派遣劳动者享有的劳动报酬和劳动条件，按照用工单位所在地的标准执行。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "10febeaf-bfaf-4d90-a72c-e2f3191bf82f",
+        "position": 184,
+        "word_count": 55
+      }
+    },
+    {
+      "content": "第六十二条用工单位应当履行下列义务:",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "169b5f05-c43d-46c4-9f04-f225ee4909e1",
+        "position": 185,
+        "word_count": 18
+      }
+    },
+    {
+      "content": "（一）执行国家劳动标准，提供相应的劳动条件和劳动保护；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "e3f638a0-1e3a-4ec3-ad4f-1039fa7e98b2",
+        "position": 186,
+        "word_count": 27
+      }
+    },
+    {
+      "content": "（二）告知被派遣劳动者的工作要求和劳动报酬；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "3e673bac-604f-4c69-97ba-253c88165bd2",
+        "position": 187,
+        "word_count": 22
+      }
+    },
+    {
+      "content": "（三）支付加班费、绩效奖金，提供与工作岗位相关的福利待遇；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "438fc31c-9b48-4e2a-8aff-2b93ffc5055c",
+        "position": 188,
+        "word_count": 29
+      }
+    },
+    {
+      "content": "（四）对在岗被派遣劳动者进行工作岗位所必需的培训；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "4d5ffb9d-5f46-4e16-b440-a6692df891ff",
+        "position": 189,
+        "word_count": 25
+      }
+    },
+    {
+      "content": "（五）连续用工的，实行正常的工资调整机制。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "c4bf0c7e-4be6-482b-8469-4de0485fccae",
+        "position": 190,
+        "word_count": 21
+      }
+    },
+    {
+      "content": "用工单位不得将被派遣劳动者再派遣到其他用人单位。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "f16612ae-88ea-407e-848d-af65d26fa362",
+        "position": 191,
+        "word_count": 24
+      }
+    },
+    {
+      "content": "第六十三条被派遣劳动者享有与用工单位的劳动者同工同酬的权利。用工单位应当按照同工同酬原则，对被派遣劳动者与本单位同类岗位的劳动者实行相同的劳动报酬分配办法。用工单位无同类岗位劳动者的，参照用工单位所在地相同或者相近岗位劳动者的劳动报酬确定。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "36e93d08-48d2-4bfa-8c2d-c572121f2d84",
+        "position": 192,
+        "word_count": 120
+      }
+    },
+    {
+      "content": "劳务派遣单位与被派遣劳动者订立的劳动合同和与用工单位订立的劳务派遣协议，载明或者约定的向被派遣劳动者支付的劳动报酬应当符合前款规定。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "5b6fa6f0-e932-449b-8133-e0e465897979",
+        "position": 193,
+        "word_count": 66
+      }
+    },
+    {
+      "content": "第六十四条被派遣劳动者有权在劳务派遣单位或者用工单位依法参加或者组织工会，维护自身的合法权益。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "68afee2b-85b6-43a1-a4f4-593642e4d240",
+        "position": 194,
+        "word_count": 47
+      }
+    },
+    {
+      "content": "第六十五条被派遣劳动者可以依照本法第三十六条、第三十八条的规定与劳务派遣单位解除劳动合同。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "ee676e55-b2f5-4a7a-9023-d9ee46a9def8",
+        "position": 195,
+        "word_count": 45
+      }
+    },
+    {
+      "content": "被派遣劳动者有本法第三十九条和第四十条第一项、第二项规定情形的，用工单位可以将劳动者退回劳务派遣单位，劳务派遣单位依照本法有关规定，可以与劳动者解除劳动合同。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "edcc5e2e-7b0e-4811-a0e6-f2ff308750af",
+        "position": 196,
+        "word_count": 79
+      }
+    },
+    {
+      "content": "第六十六条劳动合同用工是我国的企业基本用工形式。劳务派遣用工是补充形式，只能在临时性、辅助性或者替代性的工作岗位上实施。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "fecdca55-400e-445a-be19-aeb1882ae90a",
+        "position": 197,
+        "word_count": 60
+      }
+    },
+    {
+      "content": "前款规定的临时性工作岗位是指存续时间不超过六个月的岗位；辅助性工作岗位是指为主营业务岗位提供服务的非主营业务岗位；替代性工作岗位是指用工单位的劳动者因脱产学习、休假等原因无法工作的一定期间内，可以由其他劳动者替代工作的岗位。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "a9ab9823-5e8a-43bc-8572-120ba9c7217e",
+        "position": 198,
+        "word_count": 112
+      }
+    },
+    {
+      "content": "用工单位应当严格控制劳务派遣用工数量，不得超过其用工总量的一定比例，具体比例由国务院劳动行政部门规定。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "7241cdfc-bf77-45f7-aa78-8b4f34d9a357",
+        "position": 199,
+        "word_count": 51
+      }
+    },
+    {
+      "content": "第六十七条用人单位不得设立劳务派遣单位向本单位或者所属单位派遣劳动者。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "b1a26e1d-de36-4a97-84aa-4afec151c5a9",
+        "position": 200,
+        "word_count": 35
+      }
+    },
+    {
+      "content": "第三节非全日制用工",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "7bfdef35-3298-4003-a82b-27cd361f3510",
+        "position": 201,
+        "word_count": 9
+      }
+    },
+    {
+      "content": "第六十八条非全日制用工，是指以小时计酬为主，劳动者在同一用人单位一般平均每日工作时间不超过四小时，每周工作时间累计不超过二十四小时的用工形式。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "780185f2-1d60-4e98-8978-8f9d8fd65bd3",
+        "position": 202,
+        "word_count": 71
+      }
+    },
+    {
+      "content": "第六十九条非全日制用工双方当事人可以订立口头协议。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "b5d6338b-6f6a-4f0a-bd48-10592c30fc9b",
+        "position": 203,
+        "word_count": 25
+      }
+    },
+    {
+      "content": "从事非全日制用工的劳动者可以与一个或者一个以上用人单位订立劳动合同；但是，后订立的劳动合同不得影响先订立的劳动合同的履行。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "a1160e7e-ef37-416a-a29f-fc348cf9fe9a",
+        "position": 204,
+        "word_count": 61
+      }
+    },
+    {
+      "content": "第七十条非全日制用工双方当事人不得约定试用期。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "ddcf1d03-7cb5-4bfa-a709-6ae5968c6e8e",
+        "position": 205,
+        "word_count": 23
+      }
+    },
+    {
+      "content": "第七十一条非全日制用工双方当事人任何一方都可以随时通知对方终止用工。终止用工，用人单位不向劳动者支付经济补偿。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "c52fca31-8785-4abb-9086-2eef6105f9a6",
+        "position": 206,
+        "word_count": 55
+      }
+    },
+    {
+      "content": "第七十二条非全日制用工小时计酬标准不得低于用人单位所在地人民政府规定的最低小时工资标准。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "a54daaa5-9690-4b57-8319-39bcae6b67b1",
+        "position": 207,
+        "word_count": 44
+      }
+    },
+    {
+      "content": "非全日制用工劳动报酬结算支付周期最长不得超过十五日。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "e32a0256-0b30-47a8-b2f8-cbf37c60d478",
+        "position": 208,
+        "word_count": 26
+      }
+    },
+    {
+      "content": "第六章监督检查",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "8ca84c96-07d6-4811-a062-f4866e1d61aa",
+        "position": 209,
+        "word_count": 7
+      }
+    },
+    {
+      "content": "第七十三条国务院劳动行政部门负责全国劳动合同制度实施的监督管理。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "3ed9678c-baf6-4167-a055-1edd63c2d037",
+        "position": 210,
+        "word_count": 32
+      }
+    },
+    {
+      "content": "县级以上地方人民政府劳动行政部门负责本行政区域内劳动合同制度实施的监督管理。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "cdd8e1c6-41be-4fdd-a88e-deaf27a5116c",
+        "position": 211,
+        "word_count": 38
+      }
+    },
+    {
+      "content": "县级以上各级人民政府劳动行政部门在劳动合同制度实施的监督管理工作中，应当听取工会、企业方面代表以及有关行业主管部门的意见。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "b00629f6-a199-428e-9763-591f0c283334",
+        "position": 212,
+        "word_count": 61
+      }
+    },
+    {
+      "content": "第七十四条县级以上地方人民政府劳动行政部门依法对下列实施劳动合同制度的情况进行监督检查:",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "1044113f-d8fe-4a57-b832-b963e9af3b4e",
+        "position": 213,
+        "word_count": 44
+      }
+    },
+    {
+      "content": "（一）用人单位制定直接涉及劳动者切身利益的规章制度及其执行的情况；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "f9e67b73-300f-4735-8ca6-bf76bac6fb36",
+        "position": 214,
+        "word_count": 33
+      }
+    },
+    {
+      "content": "（二）用人单位与劳动者订立和解除劳动合同的情况；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "dddbc020-e94a-46ef-9884-e5aed008982b",
+        "position": 215,
+        "word_count": 24
+      }
+    },
+    {
+      "content": "（三）劳务派遣单位和用工单位遵守劳务派遣有关规定的情况；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "0348a15b-33a6-46bb-94a3-958958f9d09a",
+        "position": 216,
+        "word_count": 28
+      }
+    },
+    {
+      "content": "（四）用人单位遵守国家关于劳动者工作时间和休息休假规定的情况；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "1395e68a-622c-408f-a176-a0188df5efaa",
+        "position": 217,
+        "word_count": 31
+      }
+    },
+    {
+      "content": "（五）用人单位支付劳动合同约定的劳动报酬和执行最低工资标准的情况；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "a797ab75-2087-4574-b2bf-1d086334af7c",
+        "position": 218,
+        "word_count": 33
+      }
+    },
+    {
+      "content": "（六）用人单位参加各项社会保险和缴纳社会保险费的情况；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "d8df78dd-c283-4881-b966-883f32ab8a1d",
+        "position": 219,
+        "word_count": 27
+      }
+    },
+    {
+      "content": "（七）法律、法规规定的其他劳动监察事项。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "3a0b3f2f-df4e-4c71-ada3-108fa5f4f639",
+        "position": 220,
+        "word_count": 20
+      }
+    },
+    {
+      "content": "第七十五条县级以上地方人民政府劳动行政部门实施监督检查时，有权查阅与劳动合同、集体合同有关的材料，有权对劳动场所进行实地检查，用人单位和劳动者都应当如实提供有关情况和材料。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "2a3f27d5-d68f-4049-a527-a07b555d54fe",
+        "position": 221,
+        "word_count": 86
+      }
+    },
+    {
+      "content": "劳动行政部门的工作人员进行监督检查，应当出示证件，依法行使职权，文明执法。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "38253d19-aee4-4534-80d1-276518adce05",
+        "position": 222,
+        "word_count": 37
+      }
+    },
+    {
+      "content": "第七十六条县级以上人民政府建设、卫生、安全生产监督管理等有关主管部门在各自职责范围内，对用人单位执行劳动合同制度的情况进行监督管理。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "e6fc2a6d-0acb-4b79-a675-7922840bca69",
+        "position": 223,
+        "word_count": 66
+      }
+    },
+    {
+      "content": "第七十七条劳动者合法权益受到侵害的，有权要求有关部门依法处理，或者依法申请仲裁、提起诉讼。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "cb90d42a-31e9-423f-afea-4d1d7bb57499",
+        "position": 224,
+        "word_count": 45
+      }
+    },
+    {
+      "content": "第七十八条工会依法维护劳动者的合法权益，对用人单位履行劳动合同、集体合同的情况进行监督。用人单位违反劳动法律、法规和劳动合同、集体合同的，工会有权提出意见或者要求纠正；劳动者申请仲裁、提起诉讼的，工会依法给予支持和帮助。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "25569309-e2c3-4de5-b376-1542949aefe8",
+        "position": 225,
+        "word_count": 110
+      }
+    },
+    {
+      "content": "第七十九条任何组织或者个人对违反本法的行为都有权举报，县级以上人民政府劳动行政部门应当及时核实、处理，并对举报有功人员给予奖励。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "d22e81cf-b88b-4ac0-becd-b59ef6450781",
+        "position": 226,
+        "word_count": 64
+      }
+    },
+    {
+      "content": "第七章法律责任",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "8bb34d73-cc71-4a77-8801-bd06876dc634",
+        "position": 227,
+        "word_count": 7
+      }
+    },
+    {
+      "content": "第八十条用人单位直接涉及劳动者切身利益的规章制度违反法律、法规规定的，由劳动行政部门责令改正，给予警告；给劳动者造成损害的，应当承担赔偿责任。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "b50e338b-fee9-4715-a963-c8ddc2d289b1",
+        "position": 228,
+        "word_count": 71
+      }
+    },
+    {
+      "content": "第八十一条用人单位提供的劳动合同文本未载明本法规定的劳动合同必备条款或者用人单位未将劳动合同文本交付劳动者的，由劳动行政部门责令改正；给劳动者造成损害的，应当承担赔偿责任。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "e20b9a51-dfc4-4a20-bc0d-03db048f9791",
+        "position": 229,
+        "word_count": 86
+      }
+    },
+    {
+      "content": "第八十二条用人单位自用工之日起超过一个月不满一年未与劳动者订立书面劳动合同的，应当向劳动者每月支付二倍的工资。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "254159aa-b0b5-402b-9fe9-3864d359ff82",
+        "position": 230,
+        "word_count": 55
+      }
+    },
+    {
+      "content": "用人单位违反本法规定不与劳动者订立无固定期限劳动合同的，自应当订立无固定期限劳动合同之日起向劳动者每月支付二倍的工资。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "8f8f2f90-1974-4f21-b036-31daafd30f4f",
+        "position": 231,
+        "word_count": 59
+      }
+    },
+    {
+      "content": "第八十三条用人单位违反本法规定与劳动者约定试用期的，由劳动行政部门责令改正；违法约定的试用期已经履行的，由用人单位以劳动者试用期满月工资为标准，按已经履行的超过法定试用期的期间向劳动者支付赔偿金。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "68ebec7c-0382-4d2f-868e-dd842108a7da",
+        "position": 232,
+        "word_count": 98
+      }
+    },
+    {
+      "content": "第八十四条用人单位违反本法规定，扣押劳动者居民身份证等证件的，由劳动行政部门责令限期退还劳动者本人，并依照有关法律规定给予处罚。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "7ae985f5-3083-4018-8389-0c9654df6ced",
+        "position": 233,
+        "word_count": 64
+      }
+    },
+    {
+      "content": "用人单位违反本法规定，以担保或者其他名义向劳动者收取财物的，由劳动行政部门责令限期退还劳动者本人，并以每人五百元以上二千元以下的标准处以罚款；给劳动者造成损害的，应当承担赔偿责任。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "a2cb7fa9-e3a2-4410-ab04-21cd43c51612",
+        "position": 234,
+        "word_count": 90
+      }
+    },
+    {
+      "content": "劳动者依法解除或者终止劳动合同，用人单位扣押劳动者档案或者其他物品的，依照前款规定处罚。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "d377d4a6-f4b0-43ef-87aa-2e37c506ff87",
+        "position": 235,
+        "word_count": 44
+      }
+    },
+    {
+      "content": "第八十五条用人单位有下列情形之一的，由劳动行政部门责令限期支付劳动报酬、加班费或者经济补偿；劳动报酬低于当地最低工资标准的，应当支付其差额部分；逾期不支付的，责令用人单位按应付金额百分之五十以上百分之一百以下的标准向劳动者加付赔偿金:",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "2208deb3-e7cd-4776-bbb4-9a04e546cff6",
+        "position": 236,
+        "word_count": 117
+      }
+    },
+    {
+      "content": "（一）未按照劳动合同的约定或者国家规定及时足额支付劳动者劳动报酬的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "b8e1fa00-c603-4a78-bb11-2caf5a7c6022",
+        "position": 237,
+        "word_count": 34
+      }
+    },
+    {
+      "content": "（二）低于当地最低工资标准支付劳动者工资的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "099ac465-8e02-4e03-9482-3dcd9128d864",
+        "position": 238,
+        "word_count": 22
+      }
+    },
+    {
+      "content": "（三）安排加班不支付加班费的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "369b853a-3644-4112-a0fd-a8ca5acfa012",
+        "position": 239,
+        "word_count": 15
+      }
+    },
+    {
+      "content": "（四）解除或者终止劳动合同，未依照本法规定向劳动者支付经济补偿的。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "0dcee78f-1238-41da-a6aa-20b4cb83a88b",
+        "position": 240,
+        "word_count": 33
+      }
+    },
+    {
+      "content": "第八十六条劳动合同依照本法第二十六条规定被确认无效，给对方造成损害的，有过错的一方应当承担赔偿责任。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "8098c4f0-4174-4468-b7e4-a7a4441ef5b8",
+        "position": 241,
+        "word_count": 50
+      }
+    },
+    {
+      "content": "第八十七条用人单位违反本法规定解除或者终止劳动合同的，应当依照本法第四十七条规定的经济补偿标准的二倍向劳动者支付赔偿金。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "9f21303e-507f-4e1e-bf16-212361d5e6f2",
+        "position": 242,
+        "word_count": 60
+      }
+    },
+    {
+      "content": "第八十八条用人单位有下列情形之一的，依法给予行政处罚；构成犯罪的，依法追究刑事责任；给劳动者造成损害的，应当承担赔偿责任:",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "75c20695-263f-45e5-8f22-d3fe15b62352",
+        "position": 243,
+        "word_count": 61
+      }
+    },
+    {
+      "content": "（一）以暴力、威胁或者非法限制人身自由的手段强迫劳动的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "a537ce69-eb0d-457d-a08b-d50e9d0eb7a1",
+        "position": 244,
+        "word_count": 28
+      }
+    },
+    {
+      "content": "（二）违章指挥或者强令冒险作业危及劳动者人身安全的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "cb02d64e-b97c-418b-89ac-7dfabb3e3f30",
+        "position": 245,
+        "word_count": 26
+      }
+    },
+    {
+      "content": "（三）侮辱、体罚、殴打、非法搜查或者拘禁劳动者的；",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "22cb9d03-78ad-4829-871b-d37b4f83a65a",
+        "position": 246,
+        "word_count": 25
+      }
+    },
+    {
+      "content": "（四）劳动条件恶劣、环境污染严重，给劳动者身心健康造成严重损害的。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "70a7130b-8584-4d91-97f6-223d9b929b3a",
+        "position": 247,
+        "word_count": 33
+      }
+    },
+    {
+      "content": "第八十九条用人单位违反本法规定未向劳动者出具解除或者终止劳动合同的书面证明，由劳动行政部门责令改正；给劳动者造成损害的，应当承担赔偿责任。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "74a1a9f6-a5bc-4ef8-be09-bbe45cbec6ac",
+        "position": 248,
+        "word_count": 69
+      }
+    },
+    {
+      "content": "第九十条劳动者违反本法规定解除劳动合同，或者违反劳动合同中约定的保密义务或者竞业限制，给用人单位造成损失的，应当承担赔偿责任。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "529afe7b-f00f-4f29-bbb5-f785285fcaf9",
+        "position": 249,
+        "word_count": 63
+      }
+    },
+    {
+      "content": "第九十一条用人单位招用与其他用人单位尚未解除或者终止劳动合同的劳动者，给其他用人单位造成损失的，应当承担连带赔偿责任。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "2e774764-d487-4275-915f-025c4bdbd631",
+        "position": 250,
+        "word_count": 59
+      }
+    },
+    {
+      "content": "第九十二条违反本法规定，未经许可，擅自经营劳务派遣业务的，由劳动行政部门责令停止违法行为，没收违法所得，并处违法所得一倍以上五倍以下的罚款；没有违法所得的，可以处五万元以下的罚款。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "8ce5cf72-f042-48c1-a5ac-a239d141c18b",
+        "position": 251,
+        "word_count": 90
+      }
+    },
+    {
+      "content": "劳务派遣单位、用工单位违反本法有关劳务派遣规定的，由劳动行政部门责令限期改正；逾期不改正的，以每人五千元以上一万元以下的标准处以罚款，对劳务派遣单位，吊销其劳务派遣业务经营许可证。用工单位给被派遣劳动者造成损害的，劳务派遣单位与用工单位承担连带赔偿责任。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "3e1d1518-5a27-44c6-8bac-194a051879bf",
+        "position": 252,
+        "word_count": 127
+      }
+    },
+    {
+      "content": "第九十三条对不具备合法经营资格的用人单位的违法犯罪行为，依法追究法律责任；劳动者已经付出劳动的，该单位或者其出资人应当依照本法有关规定向劳动者支付劳动报酬、经济补偿、赔偿金；给劳动者造成损害的，应当承担赔偿责任。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "e0f56d84-8440-4547-ada5-d0e4d4e6ffeb",
+        "position": 253,
+        "word_count": 106
+      }
+    },
+    {
+      "content": "第九十四条个人承包经营违反本法规定招用劳动者，给劳动者造成损害的，发包的组织与个人承包经营者承担连带赔偿责任。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "8da682d3-94f1-4816-bb96-91e645cdc3c3",
+        "position": 254,
+        "word_count": 55
+      }
+    },
+    {
+      "content": "第九十五条劳动行政部门和其他有关主管部门及其工作人员玩忽职守、不履行法定职责，或者违法行使职权，给劳动者或者用人单位造成损害的，应当承担赔偿责任；对直接负责的主管人员和其他直接责任人员，依法给予行政处分；构成犯罪的，依法追究刑事责任。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "f1c31492-48dc-44ce-84d2-0665a7856358",
+        "position": 255,
+        "word_count": 117
+      }
+    },
+    {
+      "content": "第八章附则",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "19b4eff6-4e2f-40df-ab69-cbd003d73a06",
+        "position": 256,
+        "word_count": 5
+      }
+    },
+    {
+      "content": "第九十六条事业单位与实行聘用制的工作人员订立、履行、变更、解除或者终止劳动合同，法律、行政法规或者国务院另有规定的，依照其规定；未作规定的，依照本法有关规定执行。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "a8258c7c-071e-4d87-8609-c6c26f9454a1",
+        "position": 257,
+        "word_count": 81
+      }
+    },
+    {
+      "content": "第九十七条本法施行前已依法订立且在本法施行之日存续的劳动合同，继续履行；本法第十四条第二款第三项规定连续订立固定期限劳动合同的次数，自本法施行后续订固定期限劳动合同时开始计算。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "bd88b79a-c75e-4350-ac3c-705fd6fa0c87",
+        "position": 258,
+        "word_count": 88
+      }
+    },
+    {
+      "content": "本法施行前已建立劳动关系，尚未订立书面劳动合同的，应当自本法施行之日起一个月内订立。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "7df52c4a-ca6f-4ba4-88d8-0c769a9679b8",
+        "position": 259,
+        "word_count": 42
+      }
+    },
+    {
+      "content": "本法施行之日存续的劳动合同在本法施行后解除或者终止，依照本法第四十六条规定应当支付经济补偿的，经济补偿年限自本法施行之日起计算；本法施行前按照当时有关规定，用人单位应当向劳动者支付经济补偿的，按照当时有关规定执行。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "ffcc07ad-35ff-4c56-9da1-610d30f05b05",
+        "position": 260,
+        "word_count": 107
+      }
+    },
+    {
+      "content": "第九十八条本法自2008年1月1日起施行。",
+      "metadata": {
+        "source": "劳动合同法.docx",
+        "document_id": "10639759-6381-4f3e-a381-d969e134d02c",
+        "segment_id": "79b38ec2-1d81-4311-98a0-e71ac46778ef",
+        "position": 261,
+        "word_count": 21
+      }
+    },
+    {
+      "content": "工伤保险条例",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "8e563517-8d8a-4cc8-87b2-e6a7eb0ceade",
+        "position": 1,
+        "word_count": 6
+      }
+    },
+    {
+      "content": "（2003年4月27日中华人民共和国国务院令第375号公布",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "1e10144e-9600-457d-bd35-b1304864a2ff",
+        "position": 2,
+        "word_count": 29
+      }
+    },
+    {
+      "content": "根据2010年12月20日《国务院关于修改〈工伤保险条例〉的决定》修订）",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "2e9922e9-c2a0-433b-9bda-9798d55aa97c",
+        "position": 3,
+        "word_count": 36
+      }
+    },
+    {
+      "content": "第一章 总则",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "cb262ad3-150a-4b05-8d28-259d3a2a75f8",
+        "position": 4,
+        "word_count": 6
+      }
+    },
+    {
+      "content": "第一条 为了保障因工作遭受事故伤害或者患职业病的职工获得医疗救治和经济补偿，促进工伤预防和职业康复，分散用人单位的工伤风险，制定本条例。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "874c7b54-e34b-44f3-a861-21503af90b2c",
+        "position": 5,
+        "word_count": 68
+      }
+    },
+    {
+      "content": "第二条 中华人民共和国境内的企业、事业单位、社会团体、民办非企业单位、基金会、律师事务所、会计师事务所等组织和有雇工的个体工商户（以下称用人单位）应当依照本条例规定参加工伤保险，为本单位全部职工或者雇工（以下称职工）缴纳工伤保险费。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "b945bbd0-19f5-431b-8c01-0c7100c4c62a",
+        "position": 6,
+        "word_count": 116
+      }
+    },
+    {
+      "content": "中华人民共和国境内的企业、事业单位、社会团体、民办非企业单位、基金会、律师事务所、会计师事务所等组织的职工和个体工商户的雇工，均有依照本条例的规定享受工伤保险待遇的权利。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "03bb15f5-f3d9-47f7-8247-61b627458ad7",
+        "position": 7,
+        "word_count": 85
+      }
+    },
+    {
+      "content": "第三条 工伤保险费的征缴按照《社会保险费征缴暂行条例》关于基本养老保险费、基本医疗保险费、失业保险费的征缴规定执行。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "56fce508-4a94-4706-b47e-cccdf18b29fb",
+        "position": 8,
+        "word_count": 58
+      }
+    },
+    {
+      "content": "第四条 用人单位应当将参加工伤保险的有关情况在本单位内公示。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "78ea3306-9cec-4633-8366-4f7bd95d6502",
+        "position": 9,
+        "word_count": 30
+      }
+    },
+    {
+      "content": "用人单位和职工应当遵守有关安全生产和职业病防治的法律法规，执行安全卫生规程和标准，预防工伤事故发生，避免和减少职业病危害。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "9cf68c47-1582-478a-baba-545f5932c8f2",
+        "position": 10,
+        "word_count": 61
+      }
+    },
+    {
+      "content": "职工发生工伤时，用人单位应当采取措施使工伤职工得到及时救治。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "7bc0f156-f4a8-4c40-8586-8ae4d3a160f3",
+        "position": 11,
+        "word_count": 30
+      }
+    },
+    {
+      "content": "第五条 国务院社会保险行政部门负责全国的工伤保险工作。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "1fce8ed4-7a72-4544-bb14-872e80e619e8",
+        "position": 12,
+        "word_count": 27
+      }
+    },
+    {
+      "content": "县级以上地方各级人民政府社会保险行政部门负责本行政区域内的工伤保险工作。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "d706bcab-1abd-4df2-8f28-2341f0c308ed",
+        "position": 13,
+        "word_count": 36
+      }
+    },
+    {
+      "content": "社会保险行政部门按照国务院有关规定设立的社会保险经办机构（以下称经办机构）具体承办工伤保险事务。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "ef5f0e2c-641e-4cd8-a164-6d7c59522c6a",
+        "position": 14,
+        "word_count": 48
+      }
+    },
+    {
+      "content": "第六条 社会保险行政部门等部门制定工伤保险的政策、标准，应当征求工会组织、用人单位代表的意见。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "2554185f-264f-4621-b345-e34ec51605f0",
+        "position": 15,
+        "word_count": 47
+      }
+    },
+    {
+      "content": "第二章 工伤保险基金",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "b0ac4aad-00fe-45ff-a26a-59ab09bb73f0",
+        "position": 16,
+        "word_count": 10
+      }
+    },
+    {
+      "content": "第七条 工伤保险基金由用人单位缴纳的工伤保险费、工伤保险基金的利息和依法纳入工伤保险基金的其他资金构成。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "88a8f84a-0009-4858-8c8a-0567344dfc56",
+        "position": 17,
+        "word_count": 52
+      }
+    },
+    {
+      "content": "第八条 工伤保险费根据以支定收、收支平衡的原则，确定费率。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "d048a0a4-d90f-412f-9f36-e7f636d655cd",
+        "position": 18,
+        "word_count": 29
+      }
+    },
+    {
+      "content": "国家根据不同行业的工伤风险程度确定行业的差别费率，并根据工伤保险费使用、工伤发生率等情况在每个行业内确定若干费率档次。行业差别费率及行业内费率档次由国务院社会保险行政部门制定，报国务院批准后公布施行。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "0c4c3ca9-8064-4e7e-8893-5b9687ba09a5",
+        "position": 19,
+        "word_count": 100
+      }
+    },
+    {
+      "content": "统筹地区经办机构根据用人单位工伤保险费使用、工伤发生率等情况，适用所属行业内相应的费率档次确定单位缴费费率。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "5ce3854f-1d32-4dec-bd33-1d8c161add26",
+        "position": 20,
+        "word_count": 54
+      }
+    },
+    {
+      "content": "第九条 国务院社会保险行政部门应当定期了解全国各统筹地区工伤保险基金收支情况，及时提出调整行业差别费率及行业内费率档次的方案，报国务院批准后公布施行。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "abb44227-4f23-4cf7-bf86-59ba8384a055",
+        "position": 21,
+        "word_count": 75
+      }
+    },
+    {
+      "content": "第十条 用人单位应当按时缴纳工伤保险费。职工个人不缴纳工伤保险费。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "efbb7222-9e26-490c-8605-692fa28a9831",
+        "position": 22,
+        "word_count": 33
+      }
+    },
+    {
+      "content": "用人单位缴纳工伤保险费的数额为本单位职工工资总额乘以单位缴费费率之积。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "cafb9c23-f183-4e1e-b51f-1a13c4d2ee3a",
+        "position": 23,
+        "word_count": 35
+      }
+    },
+    {
+      "content": "对难以按照工资总额缴纳工伤保险费的行业，其缴纳工伤保险费的具体方式，由国务院社会保险行政部门规定。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "49ae28dd-cfbe-4193-981d-4548bbdc06f1",
+        "position": 24,
+        "word_count": 49
+      }
+    },
+    {
+      "content": "第十一条 工伤保险基金逐步实行省级统筹。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "13dbabe2-091f-4f12-8125-b87df54af703",
+        "position": 25,
+        "word_count": 20
+      }
+    },
+    {
+      "content": "跨地区、生产流动性较大的行业，可以采取相对集中的方式异地参加统筹地区的工伤保险。具体办法由国务院社会保险行政部门会同有关行业的主管部门制定。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "f447713a-13f3-4d21-b90d-648bc2683b74",
+        "position": 26,
+        "word_count": 70
+      }
+    },
+    {
+      "content": "第十二条 工伤保险基金存入社会保障基金财政专户，用于本条例规定的工伤保险待遇，劳动能力鉴定，工伤预防的宣传、培训等费用，以及法律、法规规定的用于工伤保险的其他费用的支付。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "dbec62e4-cddf-4aba-a09f-02bf768e8932",
+        "position": 27,
+        "word_count": 85
+      }
+    },
+    {
+      "content": "工伤预防费用的提取比例、使用和管理的具体办法，由国务院社会保险行政部门会同国务院财政、卫生行政、安全生产监督管理等部门规定。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "4fb05eff-70d2-4f96-af92-1e00dcaec30c",
+        "position": 28,
+        "word_count": 62
+      }
+    },
+    {
+      "content": "任何单位或者个人不得将工伤保险基金用于投资运营、兴建或者改建办公场所、发放奖金，或者挪作其他用途。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "7f79635e-5811-4d90-8556-b716659d60a8",
+        "position": 29,
+        "word_count": 49
+      }
+    },
+    {
+      "content": "第十三条 工伤保险基金应当留有一定比例的储备金，用于统筹地区重大事故的工伤保险待遇支付；储备金不足支付的，由统筹地区的人民政府垫付。储备金占基金总额的具体比例和储备金的使用办法，由省、自治区、直辖市人民政府规定。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "0b14c2ab-ae81-4652-a55a-273a8cc9d8df",
+        "position": 30,
+        "word_count": 106
+      }
+    },
+    {
+      "content": "第三章 工伤认定",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "0c1557f9-c1e6-4738-ad32-54ec3181a6c9",
+        "position": 31,
+        "word_count": 8
+      }
+    },
+    {
+      "content": "第十四条 职工有下列情形之一的，应当认定为工伤：",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "28fc15f2-8e9d-4c95-9cef-7477d3516d17",
+        "position": 32,
+        "word_count": 24
+      }
+    },
+    {
+      "content": "（一）在工作时间和工作场所内，因工作原因受到事故伤害的；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "64391571-ba0c-4a54-ba8c-8bde0dab0d0e",
+        "position": 33,
+        "word_count": 28
+      }
+    },
+    {
+      "content": "（二）工作时间前后在工作场所内，从事与工作有关的预备性或者收尾性工作受到事故伤害的；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "3a71ba6d-c853-44db-9232-96bb02899599",
+        "position": 34,
+        "word_count": 42
+      }
+    },
+    {
+      "content": "（三）在工作时间和工作场所内，因履行工作职责受到暴力等意外伤害的；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "175a460f-668e-4f8a-8a07-94809bb147c6",
+        "position": 35,
+        "word_count": 33
+      }
+    },
+    {
+      "content": "（四）患职业病的；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "9aaf583c-0ea0-4479-b027-b3be03f14085",
+        "position": 36,
+        "word_count": 9
+      }
+    },
+    {
+      "content": "（五）因工外出期间，由于工作原因受到伤害或者发生事故下落不明的；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "1d2cd351-e569-498c-a5a2-f0da8a838ea0",
+        "position": 37,
+        "word_count": 32
+      }
+    },
+    {
+      "content": "（六）在上下班途中，受到非本人主要责任的交通事故或者城市轨道交通、客运轮渡、火车事故伤害的；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "8647cf3d-8da9-4cc0-84b7-acf5d353aaec",
+        "position": 38,
+        "word_count": 46
+      }
+    },
+    {
+      "content": "（七）法律、行政法规规定应当认定为工伤的其他情形。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "282a3b4c-4822-4e85-9a2c-f97b8c8ca675",
+        "position": 39,
+        "word_count": 25
+      }
+    },
+    {
+      "content": "第十五条 职工有下列情形之一的，视同工伤：",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "58ce1147-d307-4f87-b76d-a435b9cf6bd2",
+        "position": 40,
+        "word_count": 21
+      }
+    },
+    {
+      "content": "（一）在工作时间和工作岗位，突发疾病死亡或者在48小时之内经抢救无效死亡的；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "66c66485-011c-49ec-bc2d-10818ff36053",
+        "position": 41,
+        "word_count": 38
+      }
+    },
+    {
+      "content": "（二）在抢险救灾等维护国家利益、公共利益活动中受到伤害的；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "8d16ebb9-5b78-41de-89b9-1374a3b710fb",
+        "position": 42,
+        "word_count": 29
+      }
+    },
+    {
+      "content": "（三）职工原在军队服役，因战、因公负伤致残，已取得革命伤残军人证，到用人单位后旧伤复发的。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "7d3b7653-3203-473d-a501-54afe769fa88",
+        "position": 43,
+        "word_count": 45
+      }
+    },
+    {
+      "content": "职工有前款第（一）项、第（二）项情形的，按照本条例的有关规定享受工伤保险待遇；职工有前款第（三）项情形的，按照本条例的有关规定享受除一次性伤残补助金以外的工伤保险待遇。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "9be806d9-8fc6-45cf-83a8-126ab1a5f2f5",
+        "position": 44,
+        "word_count": 84
+      }
+    },
+    {
+      "content": "第十六条 职工符合本条例第十四条、第十五条的规定，但是有下列情形之一的，不得认定为工伤或者视同工伤：",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "60b8e214-f6c1-4008-a230-24c7c4f6aa6c",
+        "position": 45,
+        "word_count": 50
+      }
+    },
+    {
+      "content": "（一）故意犯罪的；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "ce625b93-0a03-4e1d-9b0b-2a67e1073a85",
+        "position": 46,
+        "word_count": 9
+      }
+    },
+    {
+      "content": "（二）醉酒或者吸毒的；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "7ef7df7c-f4da-4f82-ab14-23e0e620c8cb",
+        "position": 47,
+        "word_count": 11
+      }
+    },
+    {
+      "content": "（三）自残或者自杀的。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "ddd25349-f977-4d68-b843-606baa624afb",
+        "position": 48,
+        "word_count": 11
+      }
+    },
+    {
+      "content": "第十七条 职工发生事故伤害或者按照职业病防治法规定被诊断、鉴定为职业病，所在单位应当自事故伤害发生之日或者被诊断、鉴定为职业病之日起30日内，向统筹地区社会保险行政部门提出工伤认定申请。遇有特殊情况，经报社会保险行政部门同意，申请时限可以适当延长。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "e55cc5c8-4779-4e49-bcef-80f82909de59",
+        "position": 49,
+        "word_count": 124
+      }
+    },
+    {
+      "content": "用人单位未按前款规定提出工伤认定申请的，工伤职工或者其近亲属、工会组织在事故伤害发生之日或者被诊断、鉴定为职业病之日起1年内，可以直接向用人单位所在地统筹地区社会保险行政部门提出工伤认定申请。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "86ca3c16-babc-41ac-9602-55c7ff088c36",
+        "position": 50,
+        "word_count": 96
+      }
+    },
+    {
+      "content": "按照本条第一款规定应当由省级社会保险行政部门进行工伤认定的事项，根据属地原则由用人单位所在地的设区的市级社会保险行政部门办理。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "05d0a305-a208-4787-8c34-3451f82d22d8",
+        "position": 51,
+        "word_count": 63
+      }
+    },
+    {
+      "content": "用人单位未在本条第一款规定的时限内提交工伤认定申请，在此期间发生符合本条例规定的工伤待遇等有关费用由该用人单位负担。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "5eb4afe5-4f34-45da-bfa0-ae7ba87d7f33",
+        "position": 52,
+        "word_count": 58
+      }
+    },
+    {
+      "content": "第十八条 提出工伤认定申请应当提交下列材料：",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "ed19dc58-e3ea-40ac-8241-8e269e16ba00",
+        "position": 53,
+        "word_count": 22
+      }
+    },
+    {
+      "content": "（一）工伤认定申请表；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "87e8e549-8ea9-463d-b968-8e95f872d2de",
+        "position": 54,
+        "word_count": 11
+      }
+    },
+    {
+      "content": "（二）与用人单位存在劳动关系（包括事实劳动关系）的证明材料；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "b2d2bbb3-bf0f-429e-a1d7-60c3e1b92b52",
+        "position": 55,
+        "word_count": 30
+      }
+    },
+    {
+      "content": "（三）医疗诊断证明或者职业病诊断证明书（或者职业病诊断鉴定书）。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "51beb2d6-2774-40e8-b2f7-fda747edb8aa",
+        "position": 56,
+        "word_count": 32
+      }
+    },
+    {
+      "content": "工伤认定申请表应当包括事故发生的时间、地点、原因以及职工伤害程度等基本情况。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "60985775-d62f-47d3-b38a-8a61f8982bb4",
+        "position": 57,
+        "word_count": 38
+      }
+    },
+    {
+      "content": "工伤认定申请人提供材料不完整的，社会保险行政部门应当一次性书面告知工伤认定申请人需要补正的全部材料。申请人按照书面告知要求补正材料后，社会保险行政部门应当受理。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "2133ef50-8cb9-44f2-b833-13b60515065f",
+        "position": 58,
+        "word_count": 80
+      }
+    },
+    {
+      "content": "第十九条 社会保险行政部门受理工伤认定申请后，根据审核需要可以对事故伤害进行调查核实，用人单位、职工、工会组织、医疗机构以及有关部门应当予以协助。职业病诊断和诊断争议的鉴定，依照职业病防治法的有关规定执行。对依法取得职业病诊断证明书或者职业病诊断鉴定书的，社会保险行政部门不再进行调查核实。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "19bcf2c3-8c42-412a-bfe5-b87f29f6c755",
+        "position": 59,
+        "word_count": 145
+      }
+    },
+    {
+      "content": "职工或者其近亲属认为是工伤，用人单位不认为是工伤的，由用人单位承担举证责任。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "23f04339-424c-4706-aa10-cfcaf9a41379",
+        "position": 60,
+        "word_count": 38
+      }
+    },
+    {
+      "content": "第二十条 社会保险行政部门应当自受理工伤认定申请之日起60日内作出工伤认定的决定，并书面通知申请工伤认定的职工或者其近亲属和该职工所在单位。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "d8b403c8-2eb6-4168-a6e5-3e5c5a38240f",
+        "position": 61,
+        "word_count": 70
+      }
+    },
+    {
+      "content": "社会保险行政部门对受理的事实清楚、权利义务明确的工伤认定申请，应当在15日内作出工伤认定的决定。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "1180b3f4-608b-4361-a9bf-baa6ebb3fed2",
+        "position": 62,
+        "word_count": 48
+      }
+    },
+    {
+      "content": "作出工伤认定决定需要以司法机关或者有关行政主管部门的结论为依据的，在司法机关或者有关行政主管部门尚未作出结论期间，作出工伤认定决定的时限中止。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "942959bb-99fa-4318-ab44-cf5b163ee9aa",
+        "position": 63,
+        "word_count": 71
+      }
+    },
+    {
+      "content": "社会保险行政部门工作人员与工伤认定申请人有利害关系的，应当回避。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "1c55f6f2-025c-4afa-a903-7891abb753ce",
+        "position": 64,
+        "word_count": 32
+      }
+    },
+    {
+      "content": "第四章 劳动能力鉴定",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "5dfa5b47-6f14-4998-8a67-039a0df25dcc",
+        "position": 65,
+        "word_count": 10
+      }
+    },
+    {
+      "content": "第二十一条 职工发生工伤，经治疗伤情相对稳定后存在残疾、影响劳动能力的，应当进行劳动能力鉴定。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "85f65178-0126-4d5c-94e1-216600c73445",
+        "position": 66,
+        "word_count": 47
+      }
+    },
+    {
+      "content": "第二十二条 劳动能力鉴定是指劳动功能障碍程度和生活自理障碍程度的等级鉴定。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "c08a14c3-6e20-4f0f-ba04-17b71a436dbb",
+        "position": 67,
+        "word_count": 37
+      }
+    },
+    {
+      "content": "劳动功能障碍分为十个伤残等级，最重的为一级，最轻的为十级。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "e693be20-3974-4a69-816a-faa56c0e6677",
+        "position": 68,
+        "word_count": 29
+      }
+    },
+    {
+      "content": "生活自理障碍分为三个等级：生活完全不能自理、生活大部分不能自理和生活部分不能自理。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "7fdc1b38-3f15-4eab-81ab-ea6f00931724",
+        "position": 69,
+        "word_count": 41
+      }
+    },
+    {
+      "content": "劳动能力鉴定标准由国务院社会保险行政部门会同国务院卫生行政部门等部门制定。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "726eefd8-3e3e-42ff-8ff5-8d5b2c97903c",
+        "position": 70,
+        "word_count": 37
+      }
+    },
+    {
+      "content": "第二十三条 劳动能力鉴定由用人单位、工伤职工或者其近亲属向设区的市级劳动能力鉴定委员会提出申请，并提供工伤认定决定和职工工伤医疗的有关资料。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "3fc29c14-273d-4762-946a-a29047f5b8b1",
+        "position": 71,
+        "word_count": 70
+      }
+    },
+    {
+      "content": "第二十四条 省、自治区、直辖市劳动能力鉴定委员会和设区的市级劳动能力鉴定委员会分别由省、自治区、直辖市和设区的市级社会保险行政部门、卫生行政部门、工会组织、经办机构代表以及用人单位代表组成。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "b0921e0e-b12d-44c5-9f57-37fd8e8d5485",
+        "position": 72,
+        "word_count": 95
+      }
+    },
+    {
+      "content": "劳动能力鉴定委员会建立医疗卫生专家库。列入专家库的医疗卫生专业技术人员应当具备下列条件：",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "aa8526be-5624-40f4-9fb4-d17e2efb589e",
+        "position": 73,
+        "word_count": 44
+      }
+    },
+    {
+      "content": "（一）具有医疗卫生高级专业技术职务任职资格；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "57ccd906-48ac-4913-a0ae-8798c553b16e",
+        "position": 74,
+        "word_count": 22
+      }
+    },
+    {
+      "content": "（二）掌握劳动能力鉴定的相关知识；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "565414a5-6f74-4a1e-9d36-770863bcce98",
+        "position": 75,
+        "word_count": 17
+      }
+    },
+    {
+      "content": "（三）具有良好的职业品德。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "2b6fbd7e-35d0-4f08-943f-625b49eabfe8",
+        "position": 76,
+        "word_count": 13
+      }
+    },
+    {
+      "content": "第二十五条 设区的市级劳动能力鉴定委员会收到劳动能力鉴定申请后，应当从其建立的医疗卫生专家库中随机抽取3名或者5名相关专家组成专家组，由专家组提出鉴定意见。设区的市级劳动能力鉴定委员会根据专家组的鉴定意见作出工伤职工劳动能力鉴定结论；必要时，可以委托具备资格的医疗机构协助进行有关的诊断。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "65f5b5f1-91ec-4b71-9a8f-93721321b7ba",
+        "position": 77,
+        "word_count": 144
+      }
+    },
+    {
+      "content": "设区的市级劳动能力鉴定委员会应当自收到劳动能力鉴定申请之日起60日内作出劳动能力鉴定结论，必要时，作出劳动能力鉴定结论的期限可以延长30日。劳动能力鉴定结论应当及时送达申请鉴定的单位和个人。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "d52e564f-1589-4590-ba85-ae34ff4891ca",
+        "position": 78,
+        "word_count": 95
+      }
+    },
+    {
+      "content": "第二十六条 申请鉴定的单位或者个人对设区的市级劳动能力鉴定委员会作出的鉴定结论不服的，可以在收到该鉴定结论之日起15日内向省、自治区、直辖市劳动能力鉴定委员会提出再次鉴定申请。省、自治区、直辖市劳动能力鉴定委员会作出的劳动能力鉴定结论为最终结论。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "612c1b4a-6d45-47af-9c46-a8aa29ea3611",
+        "position": 79,
+        "word_count": 123
+      }
+    },
+    {
+      "content": "第二十七条 劳动能力鉴定工作应当客观、公正。劳动能力鉴定委员会组成人员或者参加鉴定的专家与当事人有利害关系的，应当回避。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "a945c0db-324c-4ffb-89b0-8cad409103e0",
+        "position": 80,
+        "word_count": 60
+      }
+    },
+    {
+      "content": "第二十八条 自劳动能力鉴定结论作出之日起1年后，工伤职工或者其近亲属、所在单位或者经办机构认为伤残情况发生变化的，可以申请劳动能力复查鉴定。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "b60878ee-4942-443f-b220-a6c17ba5eba2",
+        "position": 81,
+        "word_count": 70
+      }
+    },
+    {
+      "content": "第二十九条 劳动能力鉴定委员会依照本条例第二十六条和第二十八条的规定进行再次鉴定和复查鉴定的期限，依照本条例第二十五条第二款的规定执行。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "7884af16-8ba6-4b0b-b15b-5cf0760f1227",
+        "position": 82,
+        "word_count": 68
+      }
+    },
+    {
+      "content": "第五章 工伤保险待遇",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "34c29ae1-7371-4b08-ab5b-fe25ed88797c",
+        "position": 83,
+        "word_count": 10
+      }
+    },
+    {
+      "content": "第三十条 职工因工作遭受事故伤害或者患职业病进行治疗，享受工伤医疗待遇。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "e575e77c-a980-4588-aa69-bc1b959dee3c",
+        "position": 84,
+        "word_count": 36
+      }
+    },
+    {
+      "content": "职工治疗工伤应当在签订服务协议的医疗机构就医，情况紧急时可以先到就近的医疗机构急救。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "b67b851e-19c2-422a-9e87-316f2ebe26fd",
+        "position": 85,
+        "word_count": 42
+      }
+    },
+    {
+      "content": "治疗工伤所需费用符合工伤保险诊疗项目目录、工伤保险药品目录、工伤保险住院服务标准的，从工伤保险基金支付。工伤保险诊疗项目目录、工伤保险药品目录、工伤保险住院服务标准，由国务院社会保险行政部门会同国务院卫生行政部门、食品药品监督管理部门等部门规定。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "edf4f2d1-fb52-4477-af90-b08d8df7be49",
+        "position": 86,
+        "word_count": 123
+      }
+    },
+    {
+      "content": "职工住院治疗工伤的伙食补助费，以及经医疗机构出具证明，报经办机构同意，工伤职工到统筹地区以外就医所需的交通、食宿费用从工伤保险基金支付，基金支付的具体标准由统筹地区人民政府规定。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "1d99d5f8-9569-4884-80de-574c750f07df",
+        "position": 87,
+        "word_count": 89
+      }
+    },
+    {
+      "content": "工伤职工治疗非工伤引发的疾病，不享受工伤医疗待遇，按照基本医疗保险办法处理。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "bdcadbf2-9822-40dc-99c1-fe1696d00e8d",
+        "position": 88,
+        "word_count": 38
+      }
+    },
+    {
+      "content": "工伤职工到签订服务协议的医疗机构进行工伤康复的费用，符合规定的，从工伤保险基金支付。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "e40eb565-a0ca-4108-919c-4bc8fc1c41c4",
+        "position": 89,
+        "word_count": 42
+      }
+    },
+    {
+      "content": "第三十一条 社会保险行政部门作出认定为工伤的决定后发生行政复议、行政诉讼的，行政复议和行政诉讼期间不停止支付工伤职工治疗工伤的医疗费用。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "43f016b2-1d08-4e0f-87a7-476af1bc7bac",
+        "position": 90,
+        "word_count": 68
+      }
+    },
+    {
+      "content": "第三十二条 工伤职工因日常生活或者就业需要，经劳动能力鉴定委员会确认，可以安装假肢、矫形器、假眼、假牙和配置轮椅等辅助器具，所需费用按照国家规定的标准从工伤保险基金支付。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "1dda0467-ab6f-4db1-ae39-ab507ebfff0b",
+        "position": 91,
+        "word_count": 85
+      }
+    },
+    {
+      "content": "第三十三条 职工因工作遭受事故伤害或者患职业病需要暂停工作接受工伤医疗的，在停工留薪期内，原工资福利待遇不变，由所在单位按月支付。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "fb42e212-4e8a-40e7-8b69-d2bbb1a5429a",
+        "position": 92,
+        "word_count": 65
+      }
+    },
+    {
+      "content": "停工留薪期一般不超过12个月。伤情严重或者情况特殊，经设区的市级劳动能力鉴定委员会确认，可以适当延长，但延长不得超过12个月。工伤职工评定伤残等级后，停发原待遇，按照本章的有关规定享受伤残待遇。工伤职工在停工留薪期满后仍需治疗的，继续享受工伤医疗待遇。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "48eb00e1-1c74-4611-8751-1d6614f2adf5",
+        "position": 93,
+        "word_count": 126
+      }
+    },
+    {
+      "content": "生活不能自理的工伤职工在停工留薪期需要护理的，由所在单位负责。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "62f13940-eec5-4e70-8f92-9fbf3efeeb86",
+        "position": 94,
+        "word_count": 31
+      }
+    },
+    {
+      "content": "第三十四条 工伤职工已经评定伤残等级并经劳动能力鉴定委员会确认需要生活护理的，从工伤保险基金按月支付生活护理费。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "da5fecf9-7ed0-4301-a487-b6fb73e47bb7",
+        "position": 95,
+        "word_count": 56
+      }
+    },
+    {
+      "content": "生活护理费按照生活完全不能自理、生活大部分不能自理或者生活部分不能自理3个不同等级支付，其标准分别为统筹地区上年度职工月平均工资的50%、40%或者30%。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "c5f4f9c0-9ab5-4b9a-ae12-23c0695e868a",
+        "position": 96,
+        "word_count": 78
+      }
+    },
+    {
+      "content": "第三十五条 职工因工致残被鉴定为一级至四级伤残的，保留劳动关系，退出工作岗位，享受以下待遇：",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "27de6bda-9c23-4eee-8ed6-72036de06e8d",
+        "position": 97,
+        "word_count": 46
+      }
+    },
+    {
+      "content": "（一）从工伤保险基金按伤残等级支付一次性伤残补助金，标准为：一级伤残为27个月的本人工资，二级伤残为25个月的本人工资，三级伤残为23个月的本人工资，四级伤残为21个月的本人工资；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "76cdc6ce-9855-4e4b-b5b2-74c6a730f6cd",
+        "position": 98,
+        "word_count": 90
+      }
+    },
+    {
+      "content": "（二）从工伤保险基金按月支付伤残津贴，标准为：一级伤残为本人工资的90%，二级伤残为本人工资的85%，三级伤残为本人工资的80%，四级伤残为本人工资的75%。伤残津贴实际金额低于当地最低工资标准的，由工伤保险基金补足差额；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "f13cb44c-f12f-4e1b-8435-28c4ea262edf",
+        "position": 99,
+        "word_count": 111
+      }
+    },
+    {
+      "content": "（三）工伤职工达到退休年龄并办理退休手续后，停发伤残津贴，按照国家有关规定享受基本养老保险待遇。基本养老保险待遇低于伤残津贴的，由工伤保险基金补足差额。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "a2ef4d30-6183-4cc5-92c4-048ddf5b7450",
+        "position": 100,
+        "word_count": 76
+      }
+    },
+    {
+      "content": "职工因工致残被鉴定为一级至四级伤残的，由用人单位和职工个人以伤残津贴为基数，缴纳基本医疗保险费。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "35cce7bc-8cd8-4434-bd28-b32a4ea2c852",
+        "position": 101,
+        "word_count": 48
+      }
+    },
+    {
+      "content": "第三十六条 职工因工致残被鉴定为五级、六级伤残的，享受以下待遇：",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "1c2c2f8f-297b-4996-a200-24f76fb05411",
+        "position": 102,
+        "word_count": 32
+      }
+    },
+    {
+      "content": "（一）从工伤保险基金按伤残等级支付一次性伤残补助金，标准为：五级伤残为18个月的本人工资，六级伤残为16个月的本人工资；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "a2bb4c0e-5b79-40c7-8e22-9be04b10c6f2",
+        "position": 103,
+        "word_count": 60
+      }
+    },
+    {
+      "content": "（二）保留与用人单位的劳动关系，由用人单位安排适当工作。难以安排工作的，由用人单位按月发给伤残津贴，标准为：五级伤残为本人工资的70%，六级伤残为本人工资的60%，并由用人单位按照规定为其缴纳应缴纳的各项社会保险费。伤残津贴实际金额低于当地最低工资标准的，由用人单位补足差额。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "99318b97-ff78-405e-9fab-cb2b0ce41e3b",
+        "position": 104,
+        "word_count": 138
+      }
+    },
+    {
+      "content": "经工伤职工本人提出，该职工可以与用人单位解除或者终止劳动关系，由工伤保险基金支付一次性工伤医疗补助金，由用人单位支付一次性伤残就业补助金。一次性工伤医疗补助金和一次性伤残就业补助金的具体标准由省、自治区、直辖市人民政府规定。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "a47a3776-4533-48b7-8e01-6ef325aaae97",
+        "position": 105,
+        "word_count": 112
+      }
+    },
+    {
+      "content": "第三十七条 职工因工致残被鉴定为七级至十级伤残的，享受以下待遇：",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "410c3bf3-1a87-4a01-a38f-fdccc52b38b2",
+        "position": 106,
+        "word_count": 32
+      }
+    },
+    {
+      "content": "（一）从工伤保险基金按伤残等级支付一次性伤残补助金，标准为：七级伤残为13个月的本人工资，八级伤残为11个月的本人工资，九级伤残为9个月的本人工资，十级伤残为7个月的本人工资；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "147574b5-7e31-4c26-91e7-76a902618d08",
+        "position": 107,
+        "word_count": 88
+      }
+    },
+    {
+      "content": "（二）劳动、聘用合同期满终止，或者职工本人提出解除劳动、聘用合同的，由工伤保险基金支付一次性工伤医疗补助金，由用人单位支付一次性伤残就业补助金。一次性工伤医疗补助金和一次性伤残就业补助金的具体标准由省、自治区、直辖市人民政府规定。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "a22e875f-a8ef-4702-84ef-c5b3818e22f3",
+        "position": 108,
+        "word_count": 115
+      }
+    },
+    {
+      "content": "第三十八条 工伤职工工伤复发，确认需要治疗的，享受本条例第三十条、第三十二条和第三十三条规定的工伤待遇。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "28aa3368-5d81-4a4c-935c-01df0bb3d270",
+        "position": 109,
+        "word_count": 52
+      }
+    },
+    {
+      "content": "第三十九条 职工因工死亡，其近亲属按照下列规定从工伤保险基金领取丧葬补助金、供养亲属抚恤金和一次性工亡补助金：",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "edfeb550-37e7-4bcf-bf5c-ba0e6ce427d8",
+        "position": 110,
+        "word_count": 55
+      }
+    },
+    {
+      "content": "（一）丧葬补助金为6个月的统筹地区上年度职工月平均工资；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "d332503e-2e32-4b1f-aa2c-586c972052fc",
+        "position": 111,
+        "word_count": 28
+      }
+    },
+    {
+      "content": "（二）供养亲属抚恤金按照职工本人工资的一定比例发给由因工死亡职工生前提供主要生活来源、无劳动能力的亲属。标准为：配偶每月40%，其他亲属每人每月30%，孤寡老人或者孤儿每人每月在上述标准的基础上增加10%。核定的各供养亲属的抚恤金之和不应高于因工死亡职工生前的工资。供养亲属的具体范围由国务院社会保险行政部门规定；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "dc4291aa-1a88-4046-945b-fe3f56d9e27b",
+        "position": 112,
+        "word_count": 157
+      }
+    },
+    {
+      "content": "（三）一次性工亡补助金标准为上一年度全国城镇居民人均可支配收入的20倍。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "7e73c1ce-537a-4c31-87e5-65c7dc8f0aeb",
+        "position": 113,
+        "word_count": 36
+      }
+    },
+    {
+      "content": "伤残职工在停工留薪期内因工伤导致死亡的，其近亲属享受本条第一款规定的待遇。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "d8012b44-6646-4391-bcb1-5f2dfac96aaf",
+        "position": 114,
+        "word_count": 37
+      }
+    },
+    {
+      "content": "一级至四级伤残职工在停工留薪期满后死亡的，其近亲属可以享受本条第一款第（一）项、第（二）项规定的待遇。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "7258c7e0-2a39-4079-9e95-c1104db30376",
+        "position": 115,
+        "word_count": 51
+      }
+    },
+    {
+      "content": "第四十条 伤残津贴、供养亲属抚恤金、生活护理费由统筹地区社会保险行政部门根据职工平均工资和生活费用变化等情况适时调整。调整办法由省、自治区、直辖市人民政府规定。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "c3a0789e-a32e-4623-8a87-3895939f5cf9",
+        "position": 116,
+        "word_count": 80
+      }
+    },
+    {
+      "content": "第四十一条 职工因工外出期间发生事故或者在抢险救灾中下落不明的，从事故发生当月起3个月内照发工资，从第4个月起停发工资，由工伤保险基金向其供养亲属按月支付供养亲属抚恤金。生活有困难的，可以预支一次性工亡补助金的50%。职工被人民法院宣告死亡的，按照本条例第三十九条职工因工死亡的规定处理。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "56077e84-39fa-4801-b1f9-9e3329ce5eee",
+        "position": 117,
+        "word_count": 144
+      }
+    },
+    {
+      "content": "第四十二条 工伤职工有下列情形之一的，停止享受工伤保险待遇：",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "9b7cc3eb-bd12-426f-a7fd-4606c1b07b9f",
+        "position": 118,
+        "word_count": 30
+      }
+    },
+    {
+      "content": "（一）丧失享受待遇条件的；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "1c6a3271-4696-4026-8c8e-b441bcf7fe40",
+        "position": 119,
+        "word_count": 13
+      }
+    },
+    {
+      "content": "（二）拒不接受劳动能力鉴定的；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "7c5879bd-46aa-4a29-8fe6-19af3f1733b7",
+        "position": 120,
+        "word_count": 15
+      }
+    },
+    {
+      "content": "（三）拒绝治疗的。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "ccfcaa66-214d-4e75-8bc7-9550dd396433",
+        "position": 121,
+        "word_count": 9
+      }
+    },
+    {
+      "content": "第四十三条 用人单位分立、合并、转让的，承继单位应当承担原用人单位的工伤保险责任；原用人单位已经参加工伤保险的，承继单位应当到当地经办机构办理工伤保险变更登记。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "9850da98-78c2-46ee-8d60-77a99ed987fd",
+        "position": 122,
+        "word_count": 80
+      }
+    },
+    {
+      "content": "用人单位实行承包经营的，工伤保险责任由职工劳动关系所在单位承担。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "915a4b7e-d943-4288-9334-f876c1354f87",
+        "position": 123,
+        "word_count": 32
+      }
+    },
+    {
+      "content": "职工被借调期间受到工伤事故伤害的，由原用人单位承担工伤保险责任，但原用人单位与借调单位可以约定补偿办法。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "bc512981-15fe-484a-bc6e-df9a6ef9460a",
+        "position": 124,
+        "word_count": 52
+      }
+    },
+    {
+      "content": "企业破产的，在破产清算时依法拨付应当由单位支付的工伤保险待遇费用。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "694b0382-40e1-42c8-90c6-575c08ab9edc",
+        "position": 125,
+        "word_count": 33
+      }
+    },
+    {
+      "content": "第四十四条 职工被派遣出境工作，依据前往国家或者地区的法律应当参加当地工伤保险的，参加当地工伤保险，其国内工伤保险关系中止；不能参加当地工伤保险的，其国内工伤保险关系不中止。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "6059828b-0529-497a-9f8c-5ff4cfe93c46",
+        "position": 126,
+        "word_count": 87
+      }
+    },
+    {
+      "content": "第四十五条 职工再次发生工伤，根据规定应当享受伤残津贴的，按照新认定的伤残等级享受伤残津贴待遇。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "82adb142-b3a6-419e-a154-1a3a6306a5ce",
+        "position": 127,
+        "word_count": 48
+      }
+    },
+    {
+      "content": "第六章 监督管理",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "fea01121-f750-4679-aa4d-8a4d87b62377",
+        "position": 128,
+        "word_count": 8
+      }
+    },
+    {
+      "content": "第四十六条 经办机构具体承办工伤保险事务，履行下列职责：",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "667430fe-db6e-4cac-ad54-15e4ef49f726",
+        "position": 129,
+        "word_count": 28
+      }
+    },
+    {
+      "content": "（一）根据省、自治区、直辖市人民政府规定，征收工伤保险费；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "f0867222-8f64-4591-a2de-d830d8d48765",
+        "position": 130,
+        "word_count": 29
+      }
+    },
+    {
+      "content": "（二）核查用人单位的工资总额和职工人数，办理工伤保险登记，并负责保存用人单位缴费和职工享受工伤保险待遇情况的记录；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "fd63bad0-c1d5-4064-817c-319749b7f906",
+        "position": 131,
+        "word_count": 57
+      }
+    },
+    {
+      "content": "（三）进行工伤保险的调查、统计；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "13347999-0515-4349-936d-36ebafb43407",
+        "position": 132,
+        "word_count": 16
+      }
+    },
+    {
+      "content": "（四）按照规定管理工伤保险基金的支出；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "c019c107-6a21-4f74-8476-a2b55529dcc0",
+        "position": 133,
+        "word_count": 19
+      }
+    },
+    {
+      "content": "（五）按照规定核定工伤保险待遇；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "9b9c451f-c083-4f9a-a683-7d2e92022098",
+        "position": 134,
+        "word_count": 16
+      }
+    },
+    {
+      "content": "（六）为工伤职工或者其近亲属免费提供咨询服务。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "a7a949b7-e284-44b2-943a-947d18625eb5",
+        "position": 135,
+        "word_count": 23
+      }
+    },
+    {
+      "content": "第四十七条 经办机构与医疗机构、辅助器具配置机构在平等协商的基础上签订服务协议，并公布签订服务协议的医疗机构、辅助器具配置机构的名单。具体办法由国务院社会保险行政部门分别会同国务院卫生行政部门、民政部门等部门制定。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "e6d6b3b2-81a0-4e7a-b2bc-38f0ef4ffc1f",
+        "position": 136,
+        "word_count": 107
+      }
+    },
+    {
+      "content": "第四十八条 经办机构按照协议和国家有关目录、标准对工伤职工医疗费用、康复费用、辅助器具费用的使用情况进行核查，并按时足额结算费用。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "3a3d18d7-9ec3-4b65-b8f9-b412aeeb9ea6",
+        "position": 137,
+        "word_count": 65
+      }
+    },
+    {
+      "content": "第四十九条 经办机构应当定期公布工伤保险基金的收支情况，及时向社会保险行政部门提出调整费率的建议。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "4c0cc990-42ee-4c78-b1bb-e168ffdce616",
+        "position": 138,
+        "word_count": 49
+      }
+    },
+    {
+      "content": "第五十条 社会保险行政部门、经办机构应当定期听取工伤职工、医疗机构、辅助器具配置机构以及社会各界对改进工伤保险工作的意见。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "182b6375-f665-4156-b128-b5fdf4b42826",
+        "position": 139,
+        "word_count": 61
+      }
+    },
+    {
+      "content": "第五十一条 社会保险行政部门依法对工伤保险费的征缴和工伤保险基金的支付情况进行监督检查。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "c18c020d-a7bd-4599-bba1-4ffaeae5048c",
+        "position": 140,
+        "word_count": 44
+      }
+    },
+    {
+      "content": "财政部门和审计机关依法对工伤保险基金的收支、管理情况进行监督。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "8d431403-cdfc-4281-8c56-2de66ef88d54",
+        "position": 141,
+        "word_count": 31
+      }
+    },
+    {
+      "content": "第五十二条 任何组织和个人对有关工伤保险的违法行为，有权举报。社会保险行政部门对举报应当及时调查，按照规定处理，并为举报人保密。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "332cc63d-e55a-4597-8d99-4333be5dcc47",
+        "position": 142,
+        "word_count": 64
+      }
+    },
+    {
+      "content": "第五十三条 工会组织依法维护工伤职工的合法权益，对用人单位的工伤保险工作实行监督。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "0698db4b-a538-481c-a623-e854eabf72ef",
+        "position": 143,
+        "word_count": 41
+      }
+    },
+    {
+      "content": "第五十四条 职工与用人单位发生工伤待遇方面的争议，按照处理劳动争议的有关规定处理。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "2d1314fd-77fb-4b89-87d1-069c216a7825",
+        "position": 144,
+        "word_count": 41
+      }
+    },
+    {
+      "content": "第五十五条 有下列情形之一的，有关单位或者个人可以依法申请行政复议，也可以依法向人民法院提起行政诉讼：",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "abd39cbb-e5c3-4353-8d9a-98cf084e56bf",
+        "position": 145,
+        "word_count": 51
+      }
+    },
+    {
+      "content": "（一）申请工伤认定的职工或者其近亲属、该职工所在单位对工伤认定申请不予受理的决定不服的；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "3c8ca82a-5d4a-46e6-9afc-29ba71b3c169",
+        "position": 146,
+        "word_count": 44
+      }
+    },
+    {
+      "content": "（二）申请工伤认定的职工或者其近亲属、该职工所在单位对工伤认定结论不服的；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "e4eb8134-7922-4762-9326-aea934ab3957",
+        "position": 147,
+        "word_count": 37
+      }
+    },
+    {
+      "content": "（三）用人单位对经办机构确定的单位缴费费率不服的；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "7a4a8fd6-b610-450d-94c6-8d905067c1f5",
+        "position": 148,
+        "word_count": 25
+      }
+    },
+    {
+      "content": "（四）签订服务协议的医疗机构、辅助器具配置机构认为经办机构未履行有关协议或者规定的；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "2d4cb68b-f268-4245-9608-9a1b1073fde0",
+        "position": 149,
+        "word_count": 42
+      }
+    },
+    {
+      "content": "（五）工伤职工或者其近亲属对经办机构核定的工伤保险待遇有异议的。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "3151faa9-0146-4915-915a-cbd0db2ce91c",
+        "position": 150,
+        "word_count": 32
+      }
+    },
+    {
+      "content": "第七章 法律责任",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "a2e83808-ea6f-4f3d-a589-061a22bbe94f",
+        "position": 151,
+        "word_count": 8
+      }
+    },
+    {
+      "content": "第五十六条 单位或者个人违反本条例第十二条规定挪用工伤保险基金，构成犯罪的，依法追究刑事责任；尚不构成犯罪的，依法给予处分或者纪律处分。被挪用的基金由社会保险行政部门追回，并入工伤保险基金；没收的违法所得依法上缴国库。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "c0d79fe9-6a47-4f1a-916c-8cff05094354",
+        "position": 152,
+        "word_count": 109
+      }
+    },
+    {
+      "content": "第五十七条 社会保险行政部门工作人员有下列情形之一的，依法给予处分；情节严重，构成犯罪的，依法追究刑事责任：",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "eaa6bfe5-cd79-4590-8651-8bdda1da7de4",
+        "position": 153,
+        "word_count": 54
+      }
+    },
+    {
+      "content": "（一）无正当理由不受理工伤认定申请，或者弄虚作假将不符合工伤条件的人员认定为工伤职工的；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "72f0326d-4d8c-4912-bd93-c42a8a6008bb",
+        "position": 154,
+        "word_count": 44
+      }
+    },
+    {
+      "content": "（二）未妥善保管申请工伤认定的证据材料，致使有关证据灭失的；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "830e6882-fa2d-4bc4-a47c-d7e928025ed0",
+        "position": 155,
+        "word_count": 30
+      }
+    },
+    {
+      "content": "（三）收受当事人财物的。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "c5690b02-3420-4253-bfe7-d9acd6edf7c6",
+        "position": 156,
+        "word_count": 12
+      }
+    },
+    {
+      "content": "第五十八条 经办机构有下列行为之一的，由社会保险行政部门责令改正，对直接负责的主管人员和其他责任人员依法给予纪律处分；情节严重，构成犯罪的，依法追究刑事责任；造成当事人经济损失的，由经办机构依法承担赔偿责任：",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "87223735-1022-4f64-8922-e0668ce33d95",
+        "position": 157,
+        "word_count": 104
+      }
+    },
+    {
+      "content": "（一）未按规定保存用人单位缴费和职工享受工伤保险待遇情况记录的；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "94c21fab-86b6-482e-9e58-0d93a44141f2",
+        "position": 158,
+        "word_count": 32
+      }
+    },
+    {
+      "content": "（二）不按规定核定工伤保险待遇的；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "1cfb04fd-98bf-4800-9f92-f5a4469f11a7",
+        "position": 159,
+        "word_count": 17
+      }
+    },
+    {
+      "content": "（三）收受当事人财物的。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "2b584c51-0a2c-43a5-ac6b-565a9f3c8142",
+        "position": 160,
+        "word_count": 12
+      }
+    },
+    {
+      "content": "第五十九条 医疗机构、辅助器具配置机构不按服务协议提供服务的，经办机构可以解除服务协议。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "500476f5-40af-4ecf-8461-ca5d0b723726",
+        "position": 161,
+        "word_count": 44
+      }
+    },
+    {
+      "content": "经办机构不按时足额结算费用的，由社会保险行政部门责令改正；医疗机构、辅助器具配置机构可以解除服务协议。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "323278ad-b2b7-4b4f-aa93-4784660145e2",
+        "position": 162,
+        "word_count": 51
+      }
+    },
+    {
+      "content": "第六十条 用人单位、工伤职工或者其近亲属骗取工伤保险待遇，医疗机构、辅助器具配置机构骗取工伤保险基金支出的，由社会保险行政部门责令退还，处骗取金额2倍以上5倍以下的罚款；情节严重，构成犯罪的，依法追究刑事责任。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "c7db9de6-a9d9-4d8a-9e85-eb6acd81feb5",
+        "position": 163,
+        "word_count": 105
+      }
+    },
+    {
+      "content": "第六十一条 从事劳动能力鉴定的组织或者个人有下列情形之一的，由社会保险行政部门责令改正，处2000元以上1万元以下的罚款；情节严重，构成犯罪的，依法追究刑事责任：",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "3d0993c0-c50d-443f-a8da-74fd69896c23",
+        "position": 164,
+        "word_count": 81
+      }
+    },
+    {
+      "content": "（一）提供虚假鉴定意见的；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "3ad05b42-811c-47c8-abd7-e13fe53953e7",
+        "position": 165,
+        "word_count": 13
+      }
+    },
+    {
+      "content": "（二）提供虚假诊断证明的；",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "1d499b44-c06a-4ae4-a9e6-c924e159474b",
+        "position": 166,
+        "word_count": 13
+      }
+    },
+    {
+      "content": "（三）收受当事人财物的。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "1a8accaf-5f9e-4165-a581-9e998d504cf8",
+        "position": 167,
+        "word_count": 12
+      }
+    },
+    {
+      "content": "第六十二条 用人单位依照本条例规定应当参加工伤保险而未参加的，由社会保险行政部门责令限期参加，补缴应当缴纳的工伤保险费，并自欠缴之日起，按日加收万分之五的滞纳金；逾期仍不缴纳的，处欠缴数额1倍以上3倍以下的罚款。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "f7652282-410a-4846-b474-795728f57277",
+        "position": 168,
+        "word_count": 106
+      }
+    },
+    {
+      "content": "依照本条例规定应当参加工伤保险而未参加工伤保险的用人单位职工发生工伤的，由该用人单位按照本条例规定的工伤保险待遇项目和标准支付费用。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "0e666f4c-1ace-4364-b31d-15d72b195f86",
+        "position": 169,
+        "word_count": 66
+      }
+    },
+    {
+      "content": "用人单位参加工伤保险并补缴应当缴纳的工伤保险费、滞纳金后，由工伤保险基金和用人单位依照本条例的规定支付新发生的费用。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "34c79207-53df-4bb4-b56e-a604e7bdbe0b",
+        "position": 170,
+        "word_count": 58
+      }
+    },
+    {
+      "content": "第六十三条 用人单位违反本条例第十九条的规定，拒不协助社会保险行政部门对事故进行调查核实的，由社会保险行政部门责令改正，处2000元以上2万元以下的罚款。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "9deff0be-366d-4852-9a0b-d1fe0b1e41bf",
+        "position": 171,
+        "word_count": 77
+      }
+    },
+    {
+      "content": "第八章 附则",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "c408e9aa-ec85-4aa3-90e6-3542e6d40940",
+        "position": 172,
+        "word_count": 6
+      }
+    },
+    {
+      "content": "第六十四条 本条例所称工资总额，是指用人单位直接支付给本单位全部职工的劳动报酬总额。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "1976dbc9-3ec3-4bf7-aafe-e40b4ee42e59",
+        "position": 173,
+        "word_count": 42
+      }
+    },
+    {
+      "content": "本条例所称本人工资，是指工伤职工因工作遭受事故伤害或者患职业病前12个月平均月缴费工资。本人工资高于统筹地区职工平均工资300%的，按照统筹地区职工平均工资的300%计算；本人工资低于统筹地区职工平均工资60%的，按照统筹地区职工平均工资的60%计算。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "71e98911-181c-45fa-a231-f4219382566b",
+        "position": 174,
+        "word_count": 126
+      }
+    },
+    {
+      "content": "第六十五条 公务员和参照公务员法管理的事业单位、社会团体的工作人员因工作遭受事故伤害或者患职业病的，由所在单位支付费用。具体办法由国务院社会保险行政部门会同国务院财政部门规定。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "cac821f7-ccfc-4a0b-9f01-9a570a9b792b",
+        "position": 175,
+        "word_count": 88
+      }
+    },
+    {
+      "content": "第六十六条 无营业执照或者未经依法登记、备案的单位以及被依法吊销营业执照或者撤销登记、备案的单位的职工受到事故伤害或者患职业病的，由该单位向伤残职工或者死亡职工的近亲属给予一次性赔偿，赔偿标准不得低于本条例规定的工伤保险待遇；用人单位不得使用童工，用人单位使用童工造成童工伤残、死亡的，由该单位向童工或者童工的近亲属给予一次性赔偿，赔偿标准不得低于本条例规定的工伤保险待遇。具体办法由国务院社会保险行政部门规定。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "c2c4c772-657f-46fa-be43-90fbf8e63562",
+        "position": 176,
+        "word_count": 206
+      }
+    },
+    {
+      "content": "前款规定的伤残职工或者死亡职工的近亲属就赔偿数额与单位发生争议的，以及前款规定的童工或者童工的近亲属就赔偿数额与单位发生争议的，按照处理劳动争议的有关规定处理。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "e1e4d242-5fcb-45d6-a7dd-34196443691c",
+        "position": 177,
+        "word_count": 80
+      }
+    },
+    {
+      "content": "第六十七条 本条例自2004年1月1日起施行。本条例施行前已受到事故伤害或者患职业病的职工尚未完成工伤认定的，按照本条例的规定执行。",
+      "metadata": {
+        "source": "工伤保险条例.docx",
+        "document_id": "153f082b-7734-433b-8967-05eaf87e9c4e",
+        "segment_id": "010201de-dfee-4484-b80e-42e0cc6b0ef3",
+        "position": 178,
+        "word_count": 66
+      }
+    }
+  ]
+}
